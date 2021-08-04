@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2021-08-01 07:59:00-0400
-title: Successfully finished 10-week mentoring program with CISTAR and Purdue REU
+title: Finished 10-week mentoring program with CISTAR and Purdue REU
 inline: false
 ---
 
