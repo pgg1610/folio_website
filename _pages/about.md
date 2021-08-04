@@ -17,15 +17,15 @@ social: false  # includes social icons at the bottom of the page
 
 Hello! Welcome to my site. 
 
-I recently completed doctorate from [Davidson School of Chemical Engineering](https://engineering.purdue.edu/ChE) at Purdue University. I was advised by [Jeffrey P. Greeley](https://engineering.purdue.edu/ChE/people/ptProfile?resource_id=84163). Understanding the molecular-level behavior of the catalyst through data and science has been the main focus of my doctoral research.
+I recently completed a doctorate from [Davidson School of Chemical Engineering](https://engineering.purdue.edu/ChE) at Purdue University. I was advised by [Jeffrey P. Greeley](https://engineering.purdue.edu/ChE/people/ptProfile?resource_id=84163). Understanding the molecular-level behavior of the catalyst through data and science has been the main focus of my doctoral research.
 
 Besides research, I love to teach and work on scientific communication. 
 
-Outside of work, I enjoy cooking [(link to some latest experiments)](https://www.instagram.com/pgg1610/), gaming, diving deep in arcane internet rabbit holes, reading philosophy, and going on longer-than-necessary bike rides.
+Outside of work, I enjoy [cooking](https://www.instagram.com/pgg1610/), gaming, diving deep in arcane internet rabbit holes, reading philosophy, and going on longer-than-necessary bike rides.
 
-I maintain a [Data Science blog](https://pgg1610.github.io/blog_fastpages/) where I document my thoughts, notebooks, tips, and list of helpful resources
+I maintain a [data science blog](https://pgg1610.github.io/blog_fastpages/) where I document my thoughts, tips, and list of helpful resources
 
-> <a href="https://www.youtube.com/watch?v=hPyFa9CqR6Y"> Sic Parvis Magna</a>
+> <a href="https://www.youtube.com/watch?v=hPyFa9CqR6Y"><i>Sic Parvis Magna</i></a>
 
 <!---
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
