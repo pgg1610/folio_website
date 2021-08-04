@@ -151,8 +151,7 @@ Finally, I want to leave you with this inspiring infographic I came across in 20
 
 Few helpful links on how to approach Advisor searching:
 
-* [Link 1](https://twitter.com/PaolaVFigueroa/status/1312157953550479361)
-* [Link 2](https://twitter.com/PaolaVFigueroa/status/1349512549734240263)
+{% twitter https://twitter.com/PaolaVFigueroa/status/1312157953550479361 maxwidth=500 %}
 
 **Finding problems to work on:**
 

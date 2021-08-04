@@ -9,6 +9,13 @@ category: work
 
 Combination of experimental kinetics, state-of-the-art characterisation techiques and computation catalyst models to investigate the active site for propane dehydrogenation reaction. It is shown that alloying noble metals, platinum in this case, with another element (like vanadium) leads to changes in the catalytic performance. Through combined experiment/theory effort these performance and stability changes can be explained by perturbation in the electronic and structural properties of the alloys.
 
+
+<img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/ptv_dos.png" data-zoomable>
+
+<div class="caption">
+    Projected density of states for Pt (gold), Pt3V (burgundy), and two epitaxial structures with one (orange) and two (crimson) layers of Pt3V on Pt with the Fermi energy marked by a vertical dashed line. The inset graph shows an expanded view of near-Fermi energy unfilled states. (b) Structures corresponding to each model. (c) The d-band center and d-band width for the above structures.
+</div>
+
 <!--
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

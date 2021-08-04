@@ -2,7 +2,7 @@
 layout: page
 title: WGSR - Pt/MgO
 description: Catalysis at Metal/Oxide Interfaces - Water Gas Shift at Pt/MgO Boundaries
-img: /assets/img/PtMgO_rxn.png
+img: /assets/img/PtMgO.png
 importance: 2
 category: work
 ---
@@ -19,6 +19,11 @@ Water-Gas Shift reaction (WGSR) is one such reaction which is expected to show s
 
 * When developing reaction network schemes for multi-components systems, the morphology of active site plays a crucial role with far-reaching consequences.
 
+<img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/PtMgO_rxn.png" data-zoomable>
+
+<div class="caption">
+    Proposed water-gas shift reaction mechanism followed at the Pt/MgO interface under CO coverage. 
+</div>
 
 <!--
 Every project has a beautiful feature showcase page.

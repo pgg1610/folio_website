@@ -7,11 +7,17 @@ importance: 3
 category: work
 ---
 
-Developed in collaboration with Hennig group @ University of Florida 
+Developed in collaboration with [Hennig group @ University of Florida](https://hennig.mse.ufl.edu)
 
 The surface structure of heterogeneous catalysts is well-known to dynamically respond to changes in the external reaction environment. As an example, the famous strong metal-support interaction involves full or partial covering of metal nanoparticles dispersed on oxide supports with reduced oxide films. Such structural perturbations result in profound changes in the catalytic properties of the underlying system. 
 
 To address this requirement, we worked on a grand-canonical evolutionary algorithm coupled with a geometric lattice-matching routine. We generate viable catalyst-surface morphologies through a series of geometric mutation and crossover operations, with the final fitness defined in terms of grand canonical surface-energy. Thus, we determine interfacial models with optimal composition and surface structure for specific external environments. 
+
+<img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/gasp_workflow.png" data-zoomable>
+
+<div class="caption">
+    Workflow implemented for sampling different multi-component catalytic interfaces using GASP surfaces.
+</div>
 
 <!--
 Every project has a beautiful feature showcase page.
