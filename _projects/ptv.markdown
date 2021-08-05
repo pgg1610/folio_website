@@ -4,7 +4,7 @@ title: Electronic & Geometric modification of Pt-V
 description: Electronic and Structural modification of Pt-V alloy and its consequences for Propane Dehydrogenation Catalysis
 img: /assets/img/PtV.png
 importance: 2
-category: work
+category: phd
 ---
 
 Combination of experimental kinetics, state-of-the-art characterisation techiques and computation catalyst models to investigate the active site for propane dehydrogenation reaction. It is shown that alloying noble metals, platinum in this case, with another element (like vanadium) leads to changes in the catalytic performance. Through combined experiment/theory effort these performance and stability changes can be explained by perturbation in the electronic and structural properties of the alloys.

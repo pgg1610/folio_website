@@ -2,9 +2,9 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: List of projects I am or have worked on. For more code-based work visit my [other blog](https://pgg1610.github.io/blog_fastpages/)
 nav: true
-display_categories: [work, fun]
+display_categories: [phd]
 horizontal: false
 ---
 <div class="projects">

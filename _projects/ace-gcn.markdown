@@ -4,7 +4,7 @@ title: ACE-GCN
 description: Adsorbate Chemical Environment-based Graph Convolutional Network
 img: /assets/img/ace_gcn.png
 importance: 1
-category: work
+category: phd
 ---
 
 The presence of numerous atomic-scale configurations, and the difficulty in systematically generating and analyzing the surface representations, make atomic-model development non-trivial. To address this challenge, a graph network-based enumeration and prediction strategy is explored. 

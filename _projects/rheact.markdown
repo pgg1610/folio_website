@@ -4,7 +4,7 @@ title: CISTAR Safety Software
 description: Reactive Hazards Evaluation Analysis and Compilation Tool (RHEACT) helps identify likely hazards when planning lab-scale experiments.
 img: /assets/img/rheact_v2.jpg
 importance: 1
-category: work
+category: phd
 ---
 
 In the past several years, the U.S. Chemical Safety Board has found an increase in the frequency of laboratory accidents and injuries. A framework to document, assess, and mitigate hazards is a critical starting point for ensuring safe laboratory practices. To address this requirement, I was part of a team working on developing Reactive Hazards Evaluation Analysis and Compilation Tool (RHEACT), an online platform to compile and scrutinize hazards-related information, was developed. This work was jointly supported by the [CISTAR](https://cistar.us/) consortium and the [Purdue Process Safety and Assurance Center (P2SAC)](https://engineering.purdue.edu/P2SAC)

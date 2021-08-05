@@ -4,7 +4,7 @@ title: WGSR - Pt/MgO
 description: Catalysis at Metal/Oxide Interfaces - Water Gas Shift at Pt/MgO Boundaries
 img: /assets/img/PtMgO.png
 importance: 2
-category: work
+category: phd
 ---
 
 Catalysts comprising of metal nanoparticles dispersed on oxide supports have found applications in a vast number of chemical processes related to energy generation and environmental. In some cases, the interface between the metal and the supporting oxide is theorized to exhibit unique reactivity compared to just the metal or the oxide in isolation.

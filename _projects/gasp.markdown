@@ -4,7 +4,7 @@ title: GASP
 description: Genetic algorithm combined with lattice-matching algorithm to generate multi-component interfacial model for catalyst design. 
 img: /assets/img/GASP_fig.png
 importance: 3
-category: work
+category: phd
 ---
 
 Developed in collaboration with [Hennig group @ University of Florida](https://hennig.mse.ufl.edu)
