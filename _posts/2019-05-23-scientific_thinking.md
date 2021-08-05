@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scientific method
+title: Scientific thinking
 date: 2019-05-23
 description: 
 featured: True
