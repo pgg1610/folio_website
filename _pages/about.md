@@ -6,9 +6,9 @@ description: Molecule modeler. Data tinkerer. Peregrinating epicure.
 
 profile:
   align: right
-  image: Pushkar_headshot.jpg
+  image: headshot.jpg
   address: >
-    <p><a href="assets/pdf/Resume_PushkarGhanekar_two_column.pdf">Resume</a></p>
+    <p><a href="assets/pdf/Resume_Pushkar_Two_columns.pdf">Resume</a></p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
