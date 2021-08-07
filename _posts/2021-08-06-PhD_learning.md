@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reflecting back on my Ph.D. journey
-date: 2021-07-06
+date: 2021-08-06
 description: 
 featured: True
 tags:

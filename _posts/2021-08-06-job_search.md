@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Navigating the job search
-date: 2021-07-06
+date: 2021-08-06
 description: 
 featured: True
 tags:
