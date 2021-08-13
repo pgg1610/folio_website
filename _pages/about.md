@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Molecule modeler. Data tinkerer. Peregrinating epicure. 
+description: Data tinkerer. Tech enthusiast. Peregrinating epicure. 
 
 profile:
   align: right
