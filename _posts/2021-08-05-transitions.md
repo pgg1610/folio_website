@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Transition words and phrases markdown
+title: Transition words and phrases
 date: 2021-07-05
 description: 
 featured: True
@@ -26,6 +26,8 @@ Below listed are some examples of transition phrases I tend to visit periodicall
 | correspondinly  	  | speaking of       	  | in turn               |
 | identically     	  | along those lines 	  | in addition to        |                 	
 
+*** 
+
 **Words that show cause**
 
 | accordingly             	| otherwise             	| as you can see       	|
@@ -37,6 +39,8 @@ Below listed are some examples of transition phrases I tend to visit periodicall
 | for this purpose/reason 	| incidently            	| it stands to reason  	|
 | perhaps                 	| following this        	| as was typical       	|
 
+***
+
 **Words that show contrast**
 
 | instead            	| nevertheless 	| although       	|
@@ -47,8 +51,9 @@ Below listed are some examples of transition phrases I tend to visit periodicall
 | otherwise          	| however      	| nonetheless    	|
 | notwithstanding    	| conversely   	| as opposed to  	|
 
-**Words that add emphasis**
+*** 
 
+**Words that add emphasis**
 
 | certainly               	| certainly          	| in essence         	|
 | no doubt (undoubtedly)  	| of course          	| unquestionably     	|
@@ -59,6 +64,8 @@ Below listed are some examples of transition phrases I tend to visit periodicall
 | in fact                 	| indeed             	| surely             	|
 | specifically            	| with this in mind  	| another key point  	|
 
+***
+
 **Summary**
 
 | in brief            	| in short           	| wrapping up         	|
@@ -66,6 +73,8 @@ Below listed are some examples of transition phrases I tend to visit periodicall
 | in sum              	| in the end         	| given these points  	|
 | all in all          	| by and large       	| ultimately          	|
 | as a rule           	| in effect          	| chiefly             	|
+
+***
 
 **Concessionary**
 
