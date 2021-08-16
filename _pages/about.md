@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hello! Welcome to my personal website. 
 
-I am a recent Chemical Engineering Ph.D. graduate from [Purdue University](https://engineering.purdue.edu/ChE). I was working with [Jeffrey P. Greeley](https://engineering.purdue.edu/ChE/people/ptProfile?resource_id=84163) to understanding the molecular-level behavior of the catalyst through data and science. I love to work on interesting ways to solve difficult problems that would help improve quality of life. 
+I am a recent Chemical Engineering Ph.D. graduate from [Purdue University](https://engineering.purdue.edu/ChE). I was working with [Jeffrey P. Greeley](https://engineering.purdue.edu/ChE/people/ptProfile?resource_id=84163) on understanding the molecular-level behavior of the catalyst through data and science. I love to work on interesting ways to solve difficult problems that would help improve the quality of life. 
 
 Besides research, I love to teach and share science with as many people as possible. 
 
