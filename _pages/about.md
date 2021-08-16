@@ -12,14 +12,14 @@ profile:
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! Welcome to my site. 
+Hello! Welcome to my personal website. 
 
-I recently completed a doctorate from [Davidson School of Chemical Engineering](https://engineering.purdue.edu/ChE) at Purdue University. I was advised by [Jeffrey P. Greeley](https://engineering.purdue.edu/ChE/people/ptProfile?resource_id=84163). Understanding the molecular-level behavior of the catalyst through data and science has been the main focus of my doctoral research.
+I am a recent Chemical Engineering Ph.D. graduate from [Purdue University](https://engineering.purdue.edu/ChE). I was working with [Jeffrey P. Greeley](https://engineering.purdue.edu/ChE/people/ptProfile?resource_id=84163) to understanding the molecular-level behavior of the catalyst through data and science. I love to work on interesting ways to solve difficult problems that would help improve quality of life. 
 
-Besides research, I love to teach and work on scientific communication. 
+Besides research, I love to teach and share science with as many people as possible. 
 
 Outside of work, I enjoy [cooking](https://www.instagram.com/pgg1610/), gaming, diving deep in arcane internet rabbit holes, reading philosophy, and going on longer-than-necessary bike rides.
 
