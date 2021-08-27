@@ -2,14 +2,79 @@
 layout: page
 title: ACE-GCN
 description: Adsorbate Chemical Environment-based Graph Convolutional Network
-img: /assets/img/ace_gcn.png
+img: /assets/img/ace-gcn/ace_gcn.png
 importance: 1
 category: phd
 ---
 
-The presence of numerous atomic-scale configurations, and the difficulty in systematically generating and analyzing the surface representations, make atomic-model development non-trivial. To address this challenge, a graph network-based enumeration and prediction strategy is explored. 
+There are plethora of reactions wherein the material (catalyst) aiding the reaction changes under the reaction the reaction condition. More so, presence of irregular geometries and complex material arrangement expands the possible solution space of possible catalyst models for the reaction. The presence of numerous atomic-scale configurations, and the difficulty in systematically generating and analyzing the surface representations, make atomic-model development non-trivial. To address this challenge, a graph network-based enumeration and prediction strategy is explored. 
 
 Adsorbate Chemical-Environment based Graph Convolution Neural Network (ACE-GCN), is a versatile framework with the ability to encode atomic configurations comprising diverse adsorbates, binding locations, coordination environments, and variations in the substrate morphology. This workflow is used to generate and rank surface adsorbate configurations for reactions which are shown to be affected by the presence of high adsorbate surface coverage. 
+
+## Background
+
+Encoding catalyst surfaces for machine learning-based screening is a fairly recent expansion of machine leraning (ML) methods to material modeling. Exciting advances in database architecture, feature abstractions, and compute power have now made it possible to consider avenues of encoding complex information. Thanks to these advances, researchers are now considering catalysts models that are much wider in composition space, and modeling complex reaction networks that were hitherto deemed challenging. 
+
+One of the challenges of modeling such complex systems is the presence of multiple unique surface representations emanating from different binding locations of chemical species on the catalyst surface. 
+
+Heterogeneous catalytic reactions are sensitive to atomic-scale complexities arising under in-operando conditions, such as variations in surface morphology, composition, and adsorbate-adsorbate interactions. 
+
+
+<img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/ace-gcn/graphs.png" width="1000" data-zoomable>
+
+<div class="caption">
+Leveraging the expressing power of graph networks to describe relational datasets 
+</div>
+
+***
+
+## ACE-GCN 
+
+We present Adsorbate Chemical Environment-based Graph Convolutional Neural Network (ACE-GCN, for short) model to help systematically generate, encode, and predict energetics of the surface models to help navigate the phase space to find stable surface representations. 
+
+<img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/ace-gcn/workflow.png" width="1000" data-zoomable>
+
+<div class="caption">
+<b>ACE-GCN algorithm to encode and train high coverage adsorbate configurations.</b> (1) Generate sub-graphs: each configuration is split into multiple subgraphs, as identified by the SurfGraph algorithm. A distinct ego-graph is generated for each adsorbate to encode local geometric and chemical properties around the adsorbate in a subgraph representation. (2) Subgraph Featurization: each atom and its corresponding bond attribute in the subgraph is expressed as a vector representation according to the chemical identity (elemental properties) and spatial bond distance, termed as node and edge features, respectively. (3) Subgraph Convolutions: every node vector in the subgraph is iteratively updated through multiple rounds of graph convolution operations, which account for the atom’s geometric and chemical neighborhood using node and edge vectors of the neighboring atoms. (4) Fingerprints: a hierarchical pooling operation condenses all subgraphs for every adsorbate into one fingerprint vector. (5) NN Layer: the fingerprint vector is passed to a feed-forward neural network (NN) which maps it to the target property of choice, such as the average adsorption energy.
+</div>
+
+ACE-GCN leverages the expressive power of graph networks to encode and learn the mapping of electronic and geometrics features of the catalyst surface to its thermodynamic stability. Once trained, the model can be used to rank new surface representations and quickly select stable candidates. 
+
+The atomic-scale catalyst models and computation tools proposed through this work can serve as a starting point for developing a detailed description of complex catalyst surfaces under in-operando conditions, ultimately leading to fundamental insights into the factors that govern the functioning of heterogeneous catalysis in chemically complex environments.
+
+***
+
+## Application to heterogeneous catalysis
+
+We utilize this workflow to successfully sample the large number of atomic configurations to identify the most relevant surface representation stable reaction conditions. We demonstrate the utility of the workflow to determine the relevant high coverage configurations for the cases of adsorbed NO* on Pt3Sn (111) surface and that of adsorbed OH* on irregular Pt (221). 
+
+The first case presents complexities because of the presence of an alloy and the strong binding nature of NO, while the second case presents complexities arising from the presence of step defects and the ability of OH to form inter-molecular hydrogen bonds. Using these two test cases as representative examples for likely challenges when developing computational models, we demonstrate the generalizability of our workflow to identify the most relevant atomistic configurations by utilizing only 10% of the total possible configurations. 
+
+
+<img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/ace-gcn/feedback_loop.png" width="1000" data-zoomable>
+
+<div class="caption">
+Proposed workflow to address increasing complexity in heterogeneous catalyst model development when decribing in-operado representation.  
+</div>
+
+This approach can serve as a starting point for developing detailed atomic description of complex catalyst surfaces under in-operando conditions, ultimately leading to fundamental insights into factors that govern heterogeneous catalysis in structurally and chemically complex environments.
+
+***
+
+### Future Reading:
+
+Xie, T. & Grossman, J. C. Crystal Graph Convolutional Neural Networks for an Accurate and Interpretable Prediction of Material Properties. Phys. Rev. Lett. 120, 145301 (2018). [Blog](http://txie.me/blogs/cgcnn-3d/](http://txie.me/blogs/cgcnn-3d/)
+
+Goodall, R.E.A., Lee, A.A. Predicting materials properties without crystal structure: deep representation learning from stoichiometry. Nat Commun 11, 6280 (2020). 
+
+Back, S. *et al.* Convolutional Neural Network of Atomic Surface Structures to Predict Binding Energies for High-Throughput Screening of Catalysts. *J. Phys. Chem. Lett.* **10**, 4401–4408 (2019) 
+
+Lym, J., Gu, G. H., Jung, Y. & Vlachos, D. G. Lattice convolutional neural network modeling of adsorbate coverage effects. *J. Phys. Chem. C* **123**, 18951–18959 (2019).
+
+Schmidt, D. J.; Chen, W.; Wolverton, C.; Schneider, W. F. Performance of Cluster Expansions of Coverage-Dependent Adsorption of Atomic Oxygen on Pt(111). J. Chem. Theory Comput. 2012, 8, 264−273
+
+Chowdhury, A. J. *et al.* Prediction of Adsorption Energies for Chemical Species on Metal Catalyst Surfaces Using Machine Learning. *J. Phys. Chem. C* **122**, 28142–28150 (2018).
+
 
 <!--
 Every project has a beautiful feature showcase page.
@@ -49,6 +114,7 @@ To give your project a background in the portfolio page, just add the img tag to
 </div>
 
 You can also put regular text between your rows of images.
+
 Say you wanted to write a little bit about your project before you posted the rest of the images.
 You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
 
