@@ -63,7 +63,7 @@ This approach can serve as a starting point for developing detailed atomic descr
 
 ### Future Reading:
 
-Xie, T. & Grossman, J. C. Crystal Graph Convolutional Neural Networks for an Accurate and Interpretable Prediction of Material Properties. Phys. Rev. Lett. 120, 145301 (2018). [Blog](http://txie.me/blogs/cgcnn-3d/](http://txie.me/blogs/cgcnn-3d/)
+Xie, T. & Grossman, J. C. Crystal Graph Convolutional Neural Networks for an Accurate and Interpretable Prediction of Material Properties. Phys. Rev. Lett. 120, 145301 (2018). [Blog](http://txie.me/blogs/cgcnn-3d/)
 
 Goodall, R.E.A., Lee, A.A. Predicting materials properties without crystal structure: deep representation learning from stoichiometry. Nat Commun 11, 6280 (2020). 
 
