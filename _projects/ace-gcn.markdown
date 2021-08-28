@@ -7,24 +7,23 @@ importance: 1
 category: phd
 ---
 
-There are plethora of reactions wherein the material (catalyst) aiding the reaction changes under the reaction the reaction condition. More so, presence of irregular geometries and complex material arrangement expands the possible solution space of possible catalyst models for the reaction. The presence of numerous atomic-scale configurations, and the difficulty in systematically generating and analyzing the surface representations, make atomic-model development non-trivial. To address this challenge, a graph network-based enumeration and prediction strategy is explored. 
+There are plethora of reactions wherein the material (catalyst) aiding the reaction undergoes phhysical and/or chemical transformation under the reaction conditions (_in-operando_). Heterogeneous catalytic reactions are sensitive to atomic-scale complexities arising under in-operando conditions, such as variations in surface morphology, composition, and adsorbate-adsorbate interactions. More so, presence of irregular geometries and complex material arrangement, present for the catalyst, expands the possible solution space of possible catalyst models for the reaction. As a result, the difficulty in systematically generating and analyzing the surface representations, make atomic-model development non-trivial. To address this challenge, a graph network-based enumeration and prediction strategy is explored. 
 
-Adsorbate Chemical-Environment based Graph Convolution Neural Network (ACE-GCN), is a versatile framework with the ability to encode atomic configurations comprising diverse adsorbates, binding locations, coordination environments, and variations in the substrate morphology. This workflow is used to generate and rank surface adsorbate configurations for reactions which are shown to be affected by the presence of high adsorbate surface coverage. 
+Adsorbate Chemical-Environment-based Graph Convolution Neural Network (ACE-GCN), is a versatile framework with the ability to encode atomic configurations comprising of diverse adsorbates, binding locations, coordination environments, and variations in the substrate morphology. This workflow is used to generate and rank surface adsorbate configurations for reactions which are shown to be affected by the presence of high adsorbate surface coverage. 
 
 ## Background
 
-Encoding catalyst surfaces for machine learning-based screening is a fairly recent expansion of machine leraning (ML) methods to material modeling. Exciting advances in database architecture, feature abstractions, and compute power have now made it possible to consider avenues of encoding complex information. Thanks to these advances, researchers are now considering catalysts models that are much wider in composition space, and modeling complex reaction networks that were hitherto deemed challenging. 
+Encoding catalyst surfaces for machine learning-based screening is a fairly recent expansion of the machine learning (ML) methods in computational material modeling. Exciting advances in database architecture, feature abstractions, and compute power have now made it possible to consider avenues of encoding complex information. Thanks to these advances, researchers are now considering catalysts models that are much wider in composition space, and modeling complex reaction networks that were hitherto deemed challenging. In most of these model development endevors the challenges are: (1) Feature representation of the atomic models which are machine readable and (2) Systematically generating the training dataset with minimal bias from the user to ensure exhaustive sampling of the search space. 
 
-One of the challenges of modeling such complex systems is the presence of multiple unique surface representations emanating from different binding locations of chemical species on the catalyst surface. 
-
-Heterogeneous catalytic reactions are sensitive to atomic-scale complexities arising under in-operando conditions, such as variations in surface morphology, composition, and adsorbate-adsorbate interactions. 
-
+One way of addressing this challenge is to use graph-networks for presenting the atoms and their bonding environment. This idea has been implemented in understanding social interactions, relationship between entities as seen in [Indian spice usage](https://pgg1610.github.io/blog_fastpages/python/exploratory-data-analysis/data-visualization/web-scrapping/2020/12/09/food_relations.html), and in modeling, predicting molecular properties of small molecules which intuitively are condusive to such graphical network representation.
 
 <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/ace-gcn/graphs.png" width="1000" data-zoomable>
 
 <div class="caption">
 Leveraging the expressing power of graph networks to describe relational datasets 
 </div>
+
+In this work we build upon the idea of graph network representation and use sub-graphs to represent high coverage coverage representations. Every sub-graph is generated using the chemical environment of each unique adsorbate in the system. 
 
 ***
 
@@ -35,7 +34,7 @@ We present Adsorbate Chemical Environment-based Graph Convolutional Neural Netwo
 <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/ace-gcn/workflow.png" width="1000" data-zoomable>
 
 <div class="caption">
-<b>ACE-GCN algorithm to encode and train high coverage adsorbate configurations.</b> (1) Generate sub-graphs: each configuration is split into multiple subgraphs, as identified by the SurfGraph algorithm. A distinct ego-graph is generated for each adsorbate to encode local geometric and chemical properties around the adsorbate in a subgraph representation. (2) Subgraph Featurization: each atom and its corresponding bond attribute in the subgraph is expressed as a vector representation according to the chemical identity (elemental properties) and spatial bond distance, termed as node and edge features, respectively. (3) Subgraph Convolutions: every node vector in the subgraph is iteratively updated through multiple rounds of graph convolution operations, which account for the atom’s geometric and chemical neighborhood using node and edge vectors of the neighboring atoms. (4) Fingerprints: a hierarchical pooling operation condenses all subgraphs for every adsorbate into one fingerprint vector. (5) NN Layer: the fingerprint vector is passed to a feed-forward neural network (NN) which maps it to the target property of choice, such as the average adsorption energy.
+<b>ACE-GCN algorithm to encode and train high coverage adsorbate configurations.</b> (1) Generate sub-graphs: each configuration is split into multiple subgraphs, as identified by the [SurfGraph](https://surfgraph.readthedocs.io/en/latest/) algorithm. A distinct ego-graph is generated for each adsorbate to encode local geometric and chemical properties around the adsorbate in a subgraph representation. (2) Subgraph Featurization: each atom and its corresponding bond attribute in the subgraph is expressed as a vector representation according to the chemical identity (elemental properties) and spatial bond distance, termed as node and edge features, respectively. (3) Subgraph Convolutions: every node vector in the subgraph is iteratively updated through multiple rounds of graph convolution operations, which account for the atom’s geometric and chemical neighborhood using node and edge vectors of the neighboring atoms. (4) Fingerprints: a hierarchical pooling operation condenses all subgraphs for every adsorbate into one fingerprint vector. (5) NN Layer: the fingerprint vector is passed to a feed-forward neural network (NN) which maps it to the target property of choice, such as the average adsorption energy.
 </div>
 
 ACE-GCN leverages the expressive power of graph networks to encode and learn the mapping of electronic and geometrics features of the catalyst surface to its thermodynamic stability. Once trained, the model can be used to rank new surface representations and quickly select stable candidates. 
@@ -57,7 +56,7 @@ The first case presents complexities because of the presence of an alloy and the
 Proposed workflow to address increasing complexity in heterogeneous catalyst model development when decribing in-operado representation.  
 </div>
 
-This approach can serve as a starting point for developing detailed atomic description of complex catalyst surfaces under in-operando conditions, ultimately leading to fundamental insights into factors that govern heterogeneous catalysis in structurally and chemically complex environments.
+This approach can serve as a starting point for developing detailed atomic description of complex catalyst surfaces under _in-operando_ conditions, ultimately leading to fundamental insights into factors that govern heterogeneous catalysis in structurally and chemically complex environments.
 
 ***
 
