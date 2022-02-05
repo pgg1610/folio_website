@@ -9,7 +9,7 @@ category: phd
 
 There are plethora of reactions wherein the material (catalyst) aiding the reaction undergoes phhysical and/or chemical transformation under the reaction conditions (_in-operando_). Heterogeneous catalytic reactions are sensitive to atomic-scale complexities arising under in-operando conditions, such as variations in surface morphology, composition, and adsorbate-adsorbate interactions. More so, presence of irregular geometries and complex material arrangement, present for the catalyst, expands the possible solution space of possible catalyst models for the reaction. As a result, the difficulty in systematically generating and analyzing the surface representations, make atomic-model development non-trivial. To address this challenge, a graph network-based enumeration and prediction strategy is explored. 
 
-Adsorbate Chemical-Environment-based Graph Convolution Neural Network (ACE-GCN), is a versatile framework with the ability to encode atomic configurations comprising of diverse adsorbates, binding locations, coordination environments, and variations in the substrate morphology. This workflow is used to generate and rank surface adsorbate configurations for reactions which are shown to be affected by the presence of high adsorbate surface coverage. 
+Adsorbate Chemical-Environment-based Graph Convolution Neural Network (ACE-GCN), is a versatile framework with the ability to encode atomic configurations comprising of diverse adsorbates, binding locations, coordination environments, and variations in the substrate morphology. This workflow is used to generate and rank surface adsorbate configurations for reactions which are shown to be affected by the presence of high adsorbate surface coverage. Through this study we inch closer towards realizing the deam of better describing the molecular-level functioning for complex materials and process. 
 
 ## Background
 
@@ -29,7 +29,7 @@ In this work we build upon the idea of graph network representation and use sub-
 
 ## ACE-GCN 
 
-We present Adsorbate Chemical Environment-based Graph Convolutional Neural Network (ACE-GCN, for short) model to help systematically generate, encode, and predict energetics of the surface models to help navigate the phase space to find stable surface representations. 
+Adsorbate Chemical Environment-based Graph Convolutional Neural Network (ACE-GCN, for short) is a framework to help systematically generate, encode, and predict energetics of the surface models to help navigate the phase space to find stable surface representations. 
 
 <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/ace-gcn/workflow.png" width="1000" data-zoomable>
 
@@ -45,9 +45,9 @@ The atomic-scale catalyst models and computation tools proposed through this wor
 
 ## Application to heterogeneous catalysis
 
-We utilize this workflow to successfully sample the large number of atomic configurations to identify the most relevant surface representation stable reaction conditions. We demonstrate the utility of the workflow to determine the relevant high coverage configurations for the cases of adsorbed NO* on Pt3Sn (111) surface and that of adsorbed OH* on irregular Pt (221). 
+We utilize this workflow to successfully sample the large number of atomic configurations to identify the most relevant surface representation stable reaction conditions. We demonstrate the utility of the workflow to determine the relevant high coverage configurations for the cases of adsorbed NO* on Pt<sub>3</sub>Sn (111) surface and that of adsorbed OH* on irregular Pt (221). 
 
-The first case presents complexities because of the presence of an alloy and the strong binding nature of NO, while the second case presents complexities arising from the presence of step defects and the ability of OH to form inter-molecular hydrogen bonds. Using these two test cases as representative examples for likely challenges when developing computational models, we demonstrate the generalizability of our workflow to identify the most relevant atomistic configurations by utilizing only 10% of the total possible configurations. 
+The first case presents complexities because of the presence of an alloy and the strong binding nature of NO, while the second case presents challenges arising from the presence of step defects and the ability of OH to form inter-molecular hydrogen bonds. Using these two test cases as representative examples for likely challenges when developing computational models, we demonstrate the generalizability of our workflow to identify the most relevant atomistic configurations by utilizing only 10% of the total possible configurations. 
 
 
 <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/ace-gcn/feedback_loop.png" width="1000" data-zoomable>

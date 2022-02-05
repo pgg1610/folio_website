@@ -17,13 +17,15 @@ social: true  # includes social icons at the bottom of the page
 
 Hello! 
 
-I'm a research scientist in [Eli Lilly's](https://www.lilly.com/discovery/research-and-scientific-discovery) global Discovery & Cheminformatics team. Engineer by training, I am interested in programming, history, philosophy, web3, and startups. Currently working on AI methods to augment human creativity and maximize serendipty. 
+I'm Pushkar Ghanekar, engineer by training currently a research scientist in [Eli Lilly's](https://www.lilly.com/discovery/research-and-scientific-discovery) Global Discovery & Cheminformatics team. I am interested in programming, history, philosophy, web3, and startups. Currently working on AI methods in chemistry and synthesis-planning to augment human creativity and maximize serendipty. 
 
-I completed my Ph.D. in Chemical Engineering from [Purdue University](https://engineering.purdue.edu/ChE). I worked on building molecule-level understanding of catalysts to further our understanding of chemical transformations and reaction dynamics. [You can read more about my Ph.D. journey here](https://www.pushkarghanekar.com/blog/2021/phd_learning/).
+I completed my Ph.D. in Chemical Engineering from [Purdue University](https://engineering.purdue.edu/ChE) in August 2021. While at Purdue, I worked on building molecule-level understanding of catalysts to further our understanding of chemical transformations and reaction dynamics. 
+
+[You can read more about my Ph.D. journey here](https://www.pushkarghanekar.com/blog/2021/phd_learning/).
 
 Besides research, I love to teach and share science with as many people as possible. 
 
-Outside of work, I enjoy [cooking](https://www.instagram.com/pgg1610/), gaming, diving deep in arcane internet rabbit holes, and going on longer-than-necessary bike rides.
+Outside of work, I enjoy [cooking](https://www.instagram.com/pgg1610/), gaming, diving deep in arcane internet rabbit holes, reading history and philosophy, and going on longer-than-necessary bike rides.
 
 On the side, I maintain a [data science blog](https://pgg1610.github.io/blog_fastpages/) where I document my thoughts, tips, and list of helpful resources related to chemical science, algorithms, and code. 
 
