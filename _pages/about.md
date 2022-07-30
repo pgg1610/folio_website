@@ -6,7 +6,7 @@ description: Data tinkerer. Tech enthusiast. Peregrinating epicure.
 
 profile:
   align: right
-  image: headshot.jpg
+  image: headshot_29072022.png
   address: >
     <p><a href="assets/pdf/Resume_Pushkar_Two_columns_Nov2021.pdf">Resume</a></p>
 
@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hello! 
 
-I'm Pushkar Ghanekar, engineer by training currently a research scientist in [Eli Lilly's](https://www.lilly.com/discovery/research-and-scientific-discovery) Global Discovery & Cheminformatics team. I am interested in programming, history, philosophy, web3, and startups. Currently working on AI methods in chemistry and synthesis-planning to augment human creativity and maximize serendipty. 
+I'm Pushkar Ghanekar, engineer by training currently a research scientist in [Eli Lilly's](https://www.lilly.com/discovery/research-and-scientific-discovery) Global Discovery Chemistry & Cheminformatics team. My work involves developing AI-based methods in chemistry and synthesis-planning to augment human creativity and maximize serendipty. 
 
 I completed my Ph.D. in Chemical Engineering from [Purdue University](https://engineering.purdue.edu/ChE) in August 2021. While at Purdue, I worked on building molecule-level understanding of catalysts to further our understanding of chemical transformations and reaction dynamics. 
 
