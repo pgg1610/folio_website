@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="https://www.pushkarghanekar.com//feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.pushkarghanekar.com//" rel="alternate" type="text/html" /><updated>2022-11-28T15:36:15+00:00</updated><id>https://www.pushkarghanekar.com//feed.xml</id><title type="html">blank</title><subtitle>Personal Website</subtitle><entry><title type="html">Art of being just right</title><link href="https://www.pushkarghanekar.com//blog/2021/being_just_right/" rel="alternate" type="text/html" title="Art of being just right" /><published>2021-12-11T00:00:00+00:00</published><updated>2021-12-11T00:00:00+00:00</updated><id>https://www.pushkarghanekar.com//blog/2021/being_just_right</id><content type="html" xml:base="https://www.pushkarghanekar.com//blog/2021/being_just_right/"><![CDATA[<p>Imagine sipping on some hot soup one winter evening and something seems off. After one more sip, you say to yourself, ‘Ah! this needs more salt’, you get up and add a pinch of salt and voila! the soup has transformed into a flavor bomb. Now you think, ‘It needs some more!’, you add one more pinch and take it a quick swill, and you immediately the curse the heavens. The soup is now <em>too</em> salty. It tastes of salts and nothing else. What just happened here? The salt was <strong>just right</strong> before and adding one more pinch shifted it to be being salty.</p>
+
+<p>Now if you happen to plot this on a graph, with x-axis as amount of salt and y-axis being the ‘flavor’ of the soup, it would look something like a volcano.</p>
+
+<p>This curve also nicely summarize the goldilock’s story where goldilocks finds a bowl of porridge in the bear’s house at <em>just</em> the right temperature, bed with <em>just</em> the right amount of softness to sleep.</p>
+
+<p>There is a pattern now. Something of too much is going to be bad. You see this absolutely everywhere. This argument is also invoked in jusitifying life as we see on earth! It is proposed that earth is just at the right distance from the sun - not too cold or too hot. Or in natural world, the weight to land speed ratio of animals Or the amount of tax revenue and tax rate, famously termed as Laffer curve. Or the infamous flow state which you are to perform in when the skill you have and challenge of the task are <em>just</em> right.</p>
+
+<p>In my research of solid-state catalysts, I have used this as well, under a different name: Sabatier principle. The binding of the adsorbate being just right for the reaction to occur. Any more stronger would lead to catalyst poisoning and no reaction, any more weaker and the molecule won’t “stick” for the reaction to occur.</p>
+
+<p>I find it fascinating this permanence of <em>just</em> right curves in science, business, finance, policy, and in our lives.</p>]]></content><author><name></name></author><category term="Writing" /><summary type="html"><![CDATA[Imagine sipping on some hot soup one winter evening and something seems off. After one more sip, you say to yourself, ‘Ah! this needs more salt’, you get up and add a pinch of salt and voila! the soup has transformed into a flavor bomb. Now you think, ‘It needs some more!’, you add one more pinch and take it a quick swill, and you immediately the curse the heavens. The soup is now too salty. It tastes of salts and nothing else. What just happened here? The salt was just right before and adding one more pinch shifted it to be being salty.]]></summary></entry><entry><title type="html">Reflecting back on my Ph.D. journey</title><link href="https://www.pushkarghanekar.com//blog/2021/PhD_learning/" rel="alternate" type="text/html" title="Reflecting back on my Ph.D. journey" /><published>2021-08-06T00:00:00+00:00</published><updated>2021-08-06T00:00:00+00:00</updated><id>https://www.pushkarghanekar.com//blog/2021/PhD_learning</id><content type="html" xml:base="https://www.pushkarghanekar.com//blog/2021/PhD_learning/"><![CDATA[<p>This essay is a reflection on my Ph.D. journey at Purdue University. In this essay, I list a few reasons that motivated me to pursue a Ph.D., learnings from the journey, and some tips that might help others who pursue it in the future.</p>
+
+<blockquote>
+  <p>Disclaimer: Everyone’s Ph.D. experience is different, influenced by multiple factors, and difficult to generalize, so in that spirit treat the learning and pointers in this essay as my opinion and reflections, and nothing more.</p>
+</blockquote>
+
+<h3 id="expectations-going-into-a-phd">Expectations going into a Ph.D.</h3>
+
+<p>My expectations going into a Ph.D. were that I would be working with an advisor of my choice on a problem they tell me to for 5-ish years. I will talk, write, and share the findings with the community and be eventually called a ‘Doctor’.</p>
+
+<p>Broadly speaking, this is exactly what happened, but zooming in, the five-year journey was anything but linear. I came to Purdue to pursue a Ph.D. in computational fluid dynamics, something I dabbled in during my undergraduate course. However, while at Purdue, the mathematical gymnastics demanded by fluid dynamics felt above my pay grade and I slowly gravitated to the field of computational catalysis as my main concentration knowing the exciting work being done at <a href="https://engineering.purdue.edu/~catalyst/">Purdue Catalysis Center</a>.</p>
+
+<p><strong>Why?</strong></p>
+
+<p>To be fair, I didnt give the <em>why</em> any consideration as much as I did the <em>how</em>. Talking with a few seniors in the graduate schools in USA, following were some thoughts which made me want to pursue a Ph.D.</p>
+
+<p><strong>Status.</strong> Irrespective of whether it should be the case or not, pursuing and eventually getting a Ph.D. degree is recognized as an impressive achievement and is socially validating. You get to be a Doctor. My parents always wished I become a medical doctor. So this was a happy middle.</p>
+
+<p><strong>Financial optimal route to independence.</strong> Starting an independent life is an important rite of passage to adulthood. Pursuing a Masters in the US seemed to be a financial decision my family could not sustain, this made doing a Ph.D. a reasonable decision to avail the sought-after financial and social independence. In general, a Ph.D. will offer you a lot of freedom in the topics you wish to pursue and learn about. Of course, you’ll have an adviser who will impose some constraints, but in general, you’ll have much more freedom than you might find elsewhere.</p>
+
+<p><strong>Expertise.</strong> I always loved to understand why things work the way they do. Ph.D. is the only opportunity in life to really drill deep into a topic to answer that very question and get paid while doing so. You’re exploring the edge of our knowledge as a species, without the burden of lesser distractions or constraints. There’s something beautiful about that.</p>
+
+<h3 id="key-learnings">Key learnings</h3>
+
+<p>Besides the knowledge I have garnered from my wonderful collaborators and research community in this five-year journey, following are certain meta-skills I’ve learned during my Ph.D.</p>
+
+<p><strong>1. How to think for yourself: the cook vs the chef</strong></p>
+
+<p>In common parlance cook and chef are generally used interchangeably, but in the culinary world, a cook is who prepares food following a set recipe, meanwhile a chef is someone who tweaks and invents the recipe, imbue it with they’re personality. In a Ph.D. you slowly go through this process as well. You first start as a cook, following a recipe, learning the trick of trade from your research advisor, until one day you earn your stripes and become a sous-chef who plans and assists the head chef on recipes. And if possible, take up the job of head chef, guiding your projects and creating a new dish that you want to give to the world. I felt this quite strongly when I was working on developing machine-learning tools in my group, something that was not pursued in my group before.</p>
+
+<p><strong>2. Learning how to learn</strong></p>
+
+<p>Following on the first point, besides thinking for yourself, learning how to learn is an important meta-skill I learned during my Ph.D. The <a href="https://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/0547884591/?tag=offsitoftimfe-20">4-Hour Chef</a> talks beautifully about this process. The learning process for any new skill can be broken down into 4 parts: <em>Deconstruction</em> (break the idea into digestable chunks), <em>Selection</em> (select the most useful/important chunks), <em>Sequence</em> (learn the priority of each ‘chunk’), and <em>Stakes</em> (have skin in the game, give yourself a deadline; perhaps, a discussion with your advisor).</p>
+
+<p><strong>3. Asking (the right) questions</strong></p>
+
+<p>Ph.D. as much as is doing the actual work and slogging hard on writing code or setting up experiments is also about asking the right question. Emphasis on the word <em>right</em>. Some questions are interesting but are difficult to answer (see teleportation, time-travel). During your Ph.D. you will spend a good 2-3 years searching for questions you would want to answer. That doesn’t mean you won’t be working towards it but articulating it in a way that aligns with you is going to take some time.</p>
+
+<p>For every question, you will break it down into hypotheses. Formulating hypothesis and devise subsequent experiment to address is an important meta-skill that a Ph.D. will teach you. No matter the subject of your Ph.D. this practice will give you the tools to follow a scientific method in your daily life.</p>
+
+<h3 id="common-challenges-during-the-phd">Common challenges during the Ph.D.</h3>
+
+<p>Besides the autonomy, personal fulfillment, success, sprinkled with copious societal validation that follows when pursuing a Ph.D., the journey isn’t always roses and rainbows. My Ph.D. was punctuated with periods of anxiety, nervousness, writing block, and borderline depression, especially when grieving the unexpected loss of my dad, navigating through an unsuccessful project renewal(s), and the dreaded job search. The COVID-19 pandemic added further to my laundry list of problems.</p>
+
+<p>Under stress and uncertainty, we usually tend to close up, live in the past, and ruminate about have-been and could-be’s in our head. I was guilty of it as well. Eventually, I found it was worthwhile to talk my heart out to a selected few. My partner was crucial in this phase. I found three key feelings that time and again were the reason for my anxiety and stress. I outline them below and list few tips which helped me and hope might help you too:</p>
+
+<p><strong>1. Feeling of being stuck</strong></p>
+
+<p>In your Ph.D. it is usually the case that you will work toward goals that are neither clearly defined nor externally imposed. One of the most harrowing experiences during this time is when you feel stuck in an area of work with no clear line of sight. Few tips I have found useful in tackling this have been:</p>
+
+<p>(a) <em>Embrace the feeling.</em> When things go as planned, a lot of us pretend we know what’s happening. <a href="https://twitter.com/nntaleb">Nassim Taleb</a> put it well, <em>‘usually, we attribute success to our skills but failure to external noise’</em>. You learn more when things aren’t working. No other feeling will teach you more about your psyche than the feeling of being stuck. Learn about your thought process, the assumptions that went into it, and the gaps in your knowledge.</p>
+
+<p>(b) <em>Zoom out.</em> Look at the forest than the leaves. Understand the overarching implications of your work and the area you are in. Read review articles and get an idea of the state-of-the-art. It is easy to be lost in the weeds and lose focus of the vast beautiful forest you are in. Appreciate its glory and then get back into it. Reframe and re-cast your challenge.</p>
+
+<p>(c) <em>Draft a write-up.</em> Write what have done so far. I have found it useful to jot down my ideas and thoughts and review them at least every month.</p>
+
+<p>(d) <em>Take a break.</em> Go for a walk. If it helps, dont look at your project or code for a good few days and come back to it with a fresh perspective. That has helped me find bugs in my code, which in the hindsight were literally in front of me.</p>
+
+<p>(e) <em>Exercise.</em> Good exercise routine and diet has a huge effect on your mental well being and productivity. Even simple walking for atleast 15 mins a day makes a huge difference. Do not over-optimize on it, do what suits you the best. Begin small.</p>
+
+<p>(f) <em>Remember you are not your research.</em> There is life beyond Ph.D. research. Have a side activity/hobby to unwind and detach.</p>
+
+<p>(g) <em>Advisor/Mentor feedback.</em> I would recommend this step only after you have done the above options. In most cases, you have a better understanding of the technicalities of the project than your advisor, but this is where their accumulated wisdom and experience comes in hand.</p>
+
+<p><strong>2. Fear of missing out (FOMO)</strong></p>
+
+<p>To put it plainly, the onslaught of information through the internet is overwhelming for our 10,000 year old hunter-gather brains. This feeling is exacerbated with the rampant promotion of ‘exciting’  and ‘ground breaking’ research your colleagues might share on social media.</p>
+
+<p>(a) <em>Limit social media usage.</em>  especially Facebook, LinkedIN, and Twitter. They have given me unprecedented access to network of information and people  which has been fun but at the same time exposed me to moments of FOMO, anxiety, and languish. Be wary of their infinite scrolling and ‘the feed’. If there’s one social media I would wholeheartedly endorse it would be Reddit. It is amazing!</p>
+
+<p>(b) <em>Dont chase someone else’s definition of success.</em> This follows the previous point, there is much more to the person than pure citations, followers, and likes, you are unaware of their internal state of mind and personal life as they are yours.</p>
+
+<p>(c) <em>Do not oversubscribe to journals’ RSS feeds.</em></p>
+
+<p>(d) <em>Have a reading strategy:</em> Keep a reading list. Stick to it. I personally maintain a simple excel spreadsheet that lists the name, key area, link, what I liked about the paper. Usually skimming the abstract, last paragraph of the introduction and conclusion you’ll get a fair idea of what the paper has to say.</p>
+
+<p><strong>3. Toiling in obscurity</strong></p>
+
+<p>(a) <em>Support network.</em> Talk about your research with your peers. Develop a small net of trust-worthy connections where you can share your intimate thought - this could be your partners, research lab colleagues, or friends. When doing so make sure you the choosing your circle and aren’t socially pressured into one.</p>
+
+<p>(b) <em>Enjoy being alone.</em> Learning to be alone and enjoying the silence has been an important skill for me. Being alone and lonely are two different scenarios. You can feel lonely when surrounded by people.</p>
+
+<p>(c) <em>Participate in the broader community.</em> Be part of outreach activities, conferences, graduate student activities, where you meet fellow Ph.D. Interestingly, I have found Reddit to have wonderful communities, as part of their subreddits, to connect with individuals across the globe who share similar (and sometimes strange) interests.</p>
+
+<h3 id="useful-skills-to-navigate-your-phd">Useful skills to navigate your Ph.D.</h3>
+
+<p><strong>A. Consistency</strong></p>
+
+<p>Most improvements are too small to see until time allows it to accumulate into something much larger. A lot of people get frustrated and give up before the gains become meaningful and obvious. Patience is a competitive advantage. Suprisingly, you can find success if you are simply willing to do the reasonable thing longer than most people. It also prevents overworking, which in my personal experience, I suffered immensely from at the start of my Ph.D.</p>
+
+<p>Trust in the process and believe in the effect of compounding. You will slowly but surely build upon the skills and intuition by just showing up. I find to be the case in the machine-learning work I was pursuing in my group or the daily coding session I was participating in.</p>
+
+<p><strong>B. Planning</strong></p>
+
+<p>Have a rough plan about your work. I know lot of my experimental colleagues have a detailed planning and schedule for their experiment, which in general, I’ve seen computational researchers dont feel the need to. On the contrary, treat your computational simulations, codes, and models as experiments and have a thorough plan for them.</p>
+
+<p>Dont be too hard on yourself and over commit on the things to do. Generally I’ve seen I over estimate the amount of things I can get done in a day and underestimate things I can in a month.</p>
+
+<p><strong>C. Note-taking and documentation</strong></p>
+
+<p>Communication is a skill that won’t only make publishing your work easier but it would help you organize your thoughts, plan your work, and sustain collaborations. Clear and concise writing is key to articulate your key findings and directives on the next step. Besides writing, developing genuine interest and empathy for the work of your collaborators would go a long way in maintaining strong research ties.</p>
+
+<p><strong>D. Learn about investing</strong></p>
+
+<p>Life is nothing but a series of investment decisions. You are always making decisions on what aspect in your work and life deserves your attention. Learning effective ways to allocate your energy (and time), manage risk, and be driven by a process has proven helpful when managing more than one project and handle abrupt challenges. I have found learning the mental models of ‘successful’ investors in the finance and startup world helpful. I have put successful in quotes since the random act of success is sometimes conflated with a feeling of being successful. Internet has made learning from greats and successful people much more accessible. Learn from those who have repeated their success and thought process multiple times and consistently gained returns on their investment.</p>
+
+<p><strong>E. Build a network</strong></p>
+
+<p>If I would recommend one thing to take away from this essay is this: the community, the people you connect and interact with, are the single most important resource in your doctoral journey. Seek connections who interests you and aim for narrow and long interactions. University events, Conferences, Twitter, LinkedIN, and Reddit have introduced me to colleagues, friends, and mentors, who have been an immense source of wisdom and commarderie.</p>
+
+<p>I would attribute my success in finding an internship at Dow in Summer 2020 and my current job a direct result of me seeking out individuals I find interesting and have a genuine interest to learn more from them. It might seem daunting at first but believe me, in most cases, the person next to you wants to talk to you as much as you want to talk with them, just be interested and people will automatically find you interesting.</p>
+
+<p><strong>F. Being aware</strong></p>
+
+<p>This is extremely important.</p>
+
+<p>Knowing what you want to work on doesn’t mean you’ll be able to. Most people have to spend a lot of their time working on things they don’t want to, especially early on. But if you know what you want to do, you at least know what direction to nudge your life in.</p>
+
+<p>As is the case with computational models, in life your models and estimates would be based on some priors. Be aware of your own biases, your assumptions, what was the thought process behind them. Articulating it helps. If you do this consistently you will start to see gaps in your logic and understanding become clear and you can work in filling them in or updating them with appropriate information.</p>
+
+<p><strong>G. Just do it</strong></p>
+
+<p>“Vision without execution is just hallucination.” I read this quote somewhere and it resonated with me. There would be times when you feel strongly about a particular aspect of research or want to learn a particular skill. Just carve out time and pursue it. It may sound simple but it is not easy.</p>
+
+<h3 id="concluding-thoughts">Concluding thoughts</h3>
+
+<p>To summarize, my Ph.D. journey was replete with self-discovery and intellectual growth. After years of looking for external validation (i.e. grades), Ph.D. is really about learning to listen to that voice inside your head, that is telling you what to value and what to do next, giving voice to your internal validation.</p>
+
+<p>Of course, it was a journey full of ups and downs. Looking back, I am grateful for every experience, fellow travellers and mentors I have had the fortunate to connect with, in this journey. I hope this essay is helpful to anyone considering embarking on this journey.</p>
+
+<p>Finally, I want to leave you with this inspiring infographic I came across in 2018.</p>
+
+<p><img class="img-fluid rounded z-depth-1" src="/assets/img/research_progress.png" data-zoomable="" /></p>
+
+<div class="caption">
+    Infographic made by Keenan Crane (<a href="https://twitter.com/keenanisalive">@keenanisalive</a>) showing the emotional ups and downs of doing research.
+</div>
+
+<h3 id="resources-and-futher-reading">Resources and futher reading</h3>
+
+<p><strong>Tips on contacting a research group:</strong></p>
+
+<p>Few helpful links on how to approach Advisor searching:</p>
+
+<div class="jekyll-twitter-plugin"><blockquote class="twitter-tweet" data-width="500"><p lang="en" dir="ltr">When I was about to start looking for potential advisors for my PhD, I sat down to think about what I wanted in a graduate experience, lab, and advisor and what I valued. <br /><br />I asked advisors the following questions before deciding whether to rotate and/or join: <br /><br />Infographic👇 <a href="https://t.co/VBp7oPT7ZM">pic.twitter.com/VBp7oPT7ZM</a></p>&mdash; Paola Figueroa-Delgado (@PaolaVFigueroa) <a href="https://twitter.com/PaolaVFigueroa/status/1312157953550479361?ref_src=twsrc%5Etfw">October 2, 2020</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+<p><strong>Finding problems to work on:</strong></p>
+
+<ul>
+  <li>
+    <p><a href="http://joschu.net/blog/opinionated-guide-ml-research.html">Opioniated guide to ML research</a></p>
+  </li>
+  <li>
+    <p><a href="http://paulgraham.com/think.html#f4n">How to think for yourself</a></p>
+  </li>
+  <li>
+    <p><a href="https://massivesci.com/articles/chaos-in-the-brickyard-comic-matteo-farinella/">Chao in the brickyard</a></p>
+  </li>
+</ul>]]></content><author><name></name></author><category term="Writing" /><summary type="html"><![CDATA[This essay is a reflection on my Ph.D. journey at Purdue University. In this essay, I list a few reasons that motivated me to pursue a Ph.D., learnings from the journey, and some tips that might help others who pursue it in the future.]]></summary></entry><entry><title type="html">Navigating the job search</title><link href="https://www.pushkarghanekar.com//blog/2021/job_search/" rel="alternate" type="text/html" title="Navigating the job search" /><published>2021-08-06T00:00:00+00:00</published><updated>2021-08-06T00:00:00+00:00</updated><id>https://www.pushkarghanekar.com//blog/2021/job_search</id><content type="html" xml:base="https://www.pushkarghanekar.com//blog/2021/job_search/"><![CDATA[<p>In this post I want to share my experience searching for a full-time industry job as a Chemical Engineering Ph.D. candidate. My job search coincided with the time when the world was still grappling with the uncertainty of the COVID-19 pandemic. In midst of all this uncertainty, I was fortunate to have full-time graduate assistant position and a supportive advisor who was willing to extend my graduation timeline if things did not work out as planned. That itself made a huge difference in my search.</p>
+
+<p>In spite of it, I’d be lying if I said the job search was easy. Being an international immigrant who would eventually need a work permit, and the recent changes to the immigration policies, made the timeline and prospective hiring window much more uncertain. This further constrained my options.</p>
+
+<p>Below is the overview of my job search process.</p>
+
+<p><img class="img-fluid rounded z-depth-1" src="/assets/img/job_search.jpg" width="1000" data-zoomable="" /></p>
+
+<div class="caption">
+    Sankey plot summarising my job search. Made using <a href="https://sankeymatic.com/build/">Sankeymatic</a>. 
+</div>
+
+<p>I started documenting the results for every job application a month into my search. As seen, most of the applications were lost in the void. The ones I heard back from either those I had contacted the HR, indepedent recruiter, or a member of the group I was interested in. This experience made me aware of the immense value having a personal connection in the company has.</p>
+
+<h3 id="few-takeaways-from-my-search">Few takeaways from my search:</h3>
+
+<blockquote>
+  <p>You are evaluated on (3+1)Cs: Curiosity, Collaboration, Communication, and Code</p>
+</blockquote>
+
+<p><strong>Network matters</strong>
+Cultivate your connections, reach out to relevant professionals if you find an interesting role. Learn about their work. LinkedIN has made it way easier to act on this. If possible get a LinkedIN premium subscription.</p>
+
+<p><strong>Timeline</strong> 
+I learnt this the hard way. Every sector, viz. Chemical, Pharma, Software, and every company in that sector, depending on its size, operates on different hiring timelines. Very few companies are willing to extend an offer or take your seriously if you are reaching out 6 months before your expected graduation. It helps to just the recruiter or the team the timeline they’re aiming for.</p>
+
+<p><strong>Skills</strong>
+Think about skills which make you well-suited for the job, you might even consider learning skills besides the one directly expected in your research. For computational jobs it helps to brush up few key skills from Datacamp, LinkedIN, or take supplementary courses from Coursera.</p>
+
+<p><strong>Questions</strong>
+Ask good questions, be interested and people will find you interesting. More on this later.</p>
+
+<p><strong>Templates</strong>
+Have a structure for questions, emails, conversation you plan to have. Have an elevator pitch of your research ready.</p>
+
+<p><strong>Analyze</strong>
+Always ask for feedback, know what sticks and what doesn’t</p>
+
+<p><strong>Follow-up</strong>
+Dont feel shy to follow-up on your application, it is generally appreciated to send a thank you note and show willingness</p>
+
+<p><strong>Portfolio</strong>
+For coding related jobs it helps to have an active GitHub or a project repository. Brush up on your coding skills since couple of roles would use some sort of coding exercies to pre-screen candidates.</p>
+
+<p>Few links to practice coding:</p>
+<ul>
+  <li><a href="https://leetcode.com/problems/">Leetcode</a></li>
+  <li><a href="https://www.hackerrank.com">Hackerrank</a></li>
+  <li><a href="https://platform.stratascratch.com/">StrataScratch</a></li>
+  <li><a href="https://pynative.com">Pynative</a></li>
+</ul>
+
+<p><strong>Get good at “sales”</strong>
+Self-belief alone is not sufficient—you also have to be able to convince other people of what you believe. Getting good at communication, particularly written communication, is an investment worth making.</p>
+
+<p>Zooming in, below are few things to keep in mind as you start your job search:</p>
+
+<h3 id="mise-en-place-the-prep">Mise en place (the prep)</h3>
+
+<ol>
+  <li>
+    <p>Make a skeleton CV (long-form) and a Resume, cover letter (broad, specific). Dont hesitate to take help from your career oppoturnuties office at your university, your friends, and mentors who are already in the industry, eg: <a href="https://owl.purdue.edu/owl/job_search_writing/preparing_an_application/writing_statements_of_teaching_philosophy.html">Purdue OWL writing resources</a></p>
+  </li>
+  <li>List of things/areas you would want to pursue
+    <ul>
+      <li>What skills/experience in your PhD make you good fit for that position</li>
+    </ul>
+  </li>
+  <li>List of companies that interest you
+    <ul>
+      <li>What I have found to be useful is make an account on the company portal and scan for jobs there rather than get lot of noise from indeed or linkedin</li>
+    </ul>
+  </li>
+  <li>Networking
+    <ul>
+      <li>Reach out to people who are in the position you would want to be in</li>
+      <li>Follow-up with your colleagues and seniors students who are currently in industry</li>
+      <li>Don’t hesitate to mail/message them for their experience, career trajectory, possible positions opening in their group</li>
+      <li>Have a ice-breaker message ready –</li>
+    </ul>
+
+    <p>“Hi, I’m <em>__ and I am __</em> interested in applying __ to catalyst discovery. I am very interested in ___ and would love to get five minutes of your time to tell you about me. Can we chat sometime soon? (Informal colleage/person on linkedin)” – you can add more meat here</p>
+  </li>
+</ol>
+
+<h3 id="once-you-land-an-interview">Once you land an interview</h3>
+
+<p>I feel most of the time technical questions are not going to be a problem it would come down to the questions you would ask and the inter-personal HR-like questions</p>
+
+<p>Few things to be keep ready:</p>
+
+<ul>
+  <li>Elevator pitch for your research (ELI5, explain like I’m 5 version of your PhD)</li>
+  <li>Broad impact of your work, how does your work apply on the larger scale</li>
+  <li>HR/behaviour questions: STAR method prep – Situation, Task, Action, Result.</li>
+</ul>
+
+<p>Choose 3-4 stories which highlight your contributions and skills, break them down in STAR format. <a href="https://passmyinterview.com/amazon-leadership-principles-interview/">Amazon leadership principles</a> are a nice source of question that you might encounter.</p>
+
+<h4 id="conversations">Conversations</h4>
+
+<blockquote>
+  <p>“To be interesting, be interested.” - Dale Carnegie</p>
+</blockquote>
+
+<ul>
+  <li>Dont ask them questions you can easily search on Google</li>
+  <li>Read the role posting and company portfolio carefully</li>
+</ul>
+
+<p>Some questions you might consider asking your interviewers:</p>
+
+<p><strong>Their Role</strong></p>
+
+<ul>
+  <li>What is your day-to-day like?</li>
+  <li>What are your most/least favorite aspects?</li>
+  <li>How do you manage workload?</li>
+  <li><em>What are the most important problems in your field?</em></li>
+</ul>
+
+<p><strong>Their Path</strong></p>
+
+<ul>
+  <li>How long did it take to progress through each stage?</li>
+  <li>Favorite failure which set you up for eventual success?</li>
+  <li><em>Knowing what you know now, what are some misvalued asset in the world?</em></li>
+</ul>
+
+<p><strong>Advice</strong></p>
+
+<ul>
+  <li><em>What kind of skills should I build to prepare to enter this career?</em></li>
+  <li>What are some books I should read/conferences I should attend?</li>
+  <li>Who should I talk to next?</li>
+</ul>
+
+<p>Wondeful compendium of questions that could be applicable to variety of scenarios: 
+<a href="https://www.amazon.com/dp/B00CUMSBK2/ref=dp-kindle-redirect?_encoding=UTF8&amp;btkr=1">The Book of Questions, by Gregory Stock</a></p>
+
+<p>In the end, my job search was one of the most anxiety inducing experiences of my Ph.D. Looking back, I would confidently say it helped me improve my communication and conversational skills.</p>
+
+<p>One thing I learnt in this process was this: patience is a competitive advantage; you can find success if you are simply willing to do the reasonable thing longer than most people.</p>]]></content><author><name></name></author><category term="Writing" /><summary type="html"><![CDATA[In this post I want to share my experience searching for a full-time industry job as a Chemical Engineering Ph.D. candidate. My job search coincided with the time when the world was still grappling with the uncertainty of the COVID-19 pandemic. In midst of all this uncertainty, I was fortunate to have full-time graduate assistant position and a supportive advisor who was willing to extend my graduation timeline if things did not work out as planned. That itself made a huge difference in my search.]]></summary></entry><entry><title type="html">Transition words and phrases</title><link href="https://www.pushkarghanekar.com//blog/2021/transitions/" rel="alternate" type="text/html" title="Transition words and phrases" /><published>2021-07-05T00:00:00+00:00</published><updated>2021-07-05T00:00:00+00:00</updated><id>https://www.pushkarghanekar.com//blog/2021/transitions</id><content type="html" xml:base="https://www.pushkarghanekar.com//blog/2021/transitions/"><![CDATA[<blockquote>
+  <p>“Music is the space between the notes” - Claude Debussy</p>
+</blockquote>
+
+<p>Transition phrases are writing devices which help bridge ideas and guide the reader through the prose. When used strategically and <em>sparingly</em> they make author’s thought process more clearer to the reader.</p>
+
+<p>Transitions phrases as also helpful even when delivering talks. Sprinkling them in your talk helps make necessary connections between present slide and the information in the previous slide, which is not directly available to your audience.</p>
+
+<p>Below listed are some examples of transition phrases I tend to visit periodically. I have categorized them roughly based on the function.</p>
+
+<p><strong>Connect and follow-on an idea</strong></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>furthermore</td>
+      <td>as an example</td>
+      <td>in fact</td>
+    </tr>
+    <tr>
+      <td>likewise</td>
+      <td>for instance</td>
+      <td>moreover</td>
+    </tr>
+    <tr>
+      <td>for example</td>
+      <td>as well as</td>
+      <td>similarly</td>
+    </tr>
+    <tr>
+      <td>another reason</td>
+      <td>along with</td>
+      <td>whereas</td>
+    </tr>
+    <tr>
+      <td>again</td>
+      <td>coupled with</td>
+      <td>simply said/put</td>
+    </tr>
+    <tr>
+      <td>correspondinly</td>
+      <td>speaking of</td>
+      <td>in turn</td>
+    </tr>
+    <tr>
+      <td>identically</td>
+      <td>along those lines</td>
+      <td>in addition to</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<p><strong>Words that show cause</strong></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>accordingly</td>
+      <td>otherwise</td>
+      <td>as you can see</td>
+    </tr>
+    <tr>
+      <td>as a result</td>
+      <td>as is the case today</td>
+      <td>for all those reasons</td>
+    </tr>
+    <tr>
+      <td>because</td>
+      <td>so then</td>
+      <td>presumably</td>
+    </tr>
+    <tr>
+      <td>consequently</td>
+      <td>subsequently</td>
+      <td>this after all</td>
+    </tr>
+    <tr>
+      <td>due to</td>
+      <td>therefore</td>
+      <td>whereas</td>
+    </tr>
+    <tr>
+      <td>hence</td>
+      <td>this is why</td>
+      <td>simply said</td>
+    </tr>
+    <tr>
+      <td>for this purpose/reason</td>
+      <td>incidently</td>
+      <td>it stands to reason</td>
+    </tr>
+    <tr>
+      <td>perhaps</td>
+      <td>following this</td>
+      <td>as was typical</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<p><strong>Words that show contrast</strong></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>instead</td>
+      <td>nevertheless</td>
+      <td>although</td>
+    </tr>
+    <tr>
+      <td>on the other hand</td>
+      <td>in contrast</td>
+      <td>however</td>
+    </tr>
+    <tr>
+      <td>on the contrary</td>
+      <td>whereas</td>
+      <td>even though</td>
+    </tr>
+    <tr>
+      <td>other than</td>
+      <td>yet</td>
+      <td>different from</td>
+    </tr>
+    <tr>
+      <td>besides</td>
+      <td>even though</td>
+      <td>that said</td>
+    </tr>
+    <tr>
+      <td>otherwise</td>
+      <td>however</td>
+      <td>nonetheless</td>
+    </tr>
+    <tr>
+      <td>notwithstanding</td>
+      <td>conversely</td>
+      <td>as opposed to</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<p><strong>Words that add emphasis</strong></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>certainly</td>
+      <td>certainly</td>
+      <td>in essence</td>
+    </tr>
+    <tr>
+      <td>no doubt (undoubtedly)</td>
+      <td>of course</td>
+      <td>unquestionably</td>
+    </tr>
+    <tr>
+      <td>indomitably</td>
+      <td>obviously</td>
+      <td>especially</td>
+    </tr>
+    <tr>
+      <td>above all</td>
+      <td>particularly</td>
+      <td>for the most part</td>
+    </tr>
+    <tr>
+      <td>as a rule</td>
+      <td>in effect</td>
+      <td>chiefly</td>
+    </tr>
+    <tr>
+      <td>it stands to reason</td>
+      <td>in this situation</td>
+      <td>primarily</td>
+    </tr>
+    <tr>
+      <td>in fact</td>
+      <td>indeed</td>
+      <td>surely</td>
+    </tr>
+    <tr>
+      <td>specifically</td>
+      <td>with this in mind</td>
+      <td>another key point</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<p><strong>Summary</strong></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>in brief</td>
+      <td>in short</td>
+      <td>wrapping up</td>
+    </tr>
+    <tr>
+      <td>to sum up</td>
+      <td>to conclude</td>
+      <td>circling back</td>
+    </tr>
+    <tr>
+      <td>in sum</td>
+      <td>in the end</td>
+      <td>given these points</td>
+    </tr>
+    <tr>
+      <td>all in all</td>
+      <td>by and large</td>
+      <td>ultimately</td>
+    </tr>
+    <tr>
+      <td>as a rule</td>
+      <td>in effect</td>
+      <td>chiefly</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<p><strong>Concessionary</strong></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>that being true</td>
+      <td>to be sure</td>
+      <td>of course</td>
+    </tr>
+    <tr>
+      <td>naturally</td>
+      <td>granted</td>
+      <td>admittedly</td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name></name></author><category term="Writing" /><summary type="html"><![CDATA[“Music is the space between the notes” - Claude Debussy]]></summary></entry><entry><title type="html">Diversity &amp;amp; inclusion</title><link href="https://www.pushkarghanekar.com//blog/2021/diversity_inclusion/" rel="alternate" type="text/html" title="Diversity &amp;amp; inclusion" /><published>2021-06-14T00:00:00+00:00</published><updated>2021-06-14T00:00:00+00:00</updated><id>https://www.pushkarghanekar.com//blog/2021/diversity_inclusion</id><content type="html" xml:base="https://www.pushkarghanekar.com//blog/2021/diversity_inclusion/"><![CDATA[<p>Homogeneity breed complacency, complecancy results in stagnation.</p>
+
+<p>Having diverse thoughts, ideas, and discussion central to progress. Comtemplation and deliberations on mutliple point of view help challenge the norms and questioning the status quo.</p>
+
+<p>One prominent example that comes to my mind as someone who benefitted from climate of diversity was Leonardo Da Vinci. He is as much a product of his intellectual prowess as the flourishing heterogeneous collaborative society of medieval 15th century Florence. It was the epicenter of artists, sculptors, blacksmiths, engineers, traders, merchantsm, and economist working closely.</p>
+
+<p>Below are list of few nice articles I have read on the topic of <a href="https://pgg1610.github.io/blog_fastpages/exploratory-data-analysis/machine-learning/resources/2021/06/25/ML_resources.html#diversity--inclusion">Diversity &amp; Inclusion</a></p>]]></content><author><name></name></author><category term="Writing" /><summary type="html"><![CDATA[Homogeneity breed complacency, complecancy results in stagnation.]]></summary></entry><entry><title type="html">Imposter syndrome</title><link href="https://www.pushkarghanekar.com//blog/2021/imposter_syndrome/" rel="alternate" type="text/html" title="Imposter syndrome" /><published>2021-03-27T00:00:00+00:00</published><updated>2021-03-27T00:00:00+00:00</updated><id>https://www.pushkarghanekar.com//blog/2021/imposter_syndrome</id><content type="html" xml:base="https://www.pushkarghanekar.com//blog/2021/imposter_syndrome/"><![CDATA[<p>As someone who relates to the perils of imposter syndrome and has suffered from it for quite sometime, I see it as my strength, rather than a something to fear from. It keeps me on my toes. I am my biggest critique and I do not let positives cloud my judgement and sense. Analyzing the wins is as important as dissecting the loses, and having a feeling of imposter, atleastt for me, helps me address it.</p>
+
+<p>Now that being said, some days I can be overwhelming and those days there are following key Ideas that keep me grounded:</p>
+
+<ol>
+  <li>
+    <p>You are generally a competent person</p>
+  </li>
+  <li>
+    <p>There are always going to be people that know more about certain area than <em>you</em> and that’s perfectly fine. In fact, seek them out and see what they know, take in their wisdom and learn from them.</p>
+  </li>
+  <li>
+    <p>You have finite amount of time to learn things; figure out areas to invest your energy in. Your goal shouldn’t be learn the most but rather learn skills that maximize your specific goals. Have a priority list (maybe make one by taking assistance of mentors or those in a position you would want to be in), see what are the skills that have got them there.</p>
+  </li>
+</ol>]]></content><author><name></name></author><category term="Writing" /><summary type="html"><![CDATA[As someone who relates to the perils of imposter syndrome and has suffered from it for quite sometime, I see it as my strength, rather than a something to fear from. It keeps me on my toes. I am my biggest critique and I do not let positives cloud my judgement and sense. Analyzing the wins is as important as dissecting the loses, and having a feeling of imposter, atleastt for me, helps me address it.]]></summary></entry><entry><title type="html">Disney movie</title><link href="https://www.pushkarghanekar.com//blog/2020/disney_movie/" rel="alternate" type="text/html" title="Disney movie" /><published>2020-08-26T00:00:00+00:00</published><updated>2020-08-26T00:00:00+00:00</updated><id>https://www.pushkarghanekar.com//blog/2020/disney_movie</id><content type="html" xml:base="https://www.pushkarghanekar.com//blog/2020/disney_movie/"><![CDATA[<p>Life is anything but a disney movie. Unlike a disney movie it is difficult to categorize any one as a hero or a villain.</p>
+
+<p>We have grown up on that idea and wish to compartmentalize our experience/idols/peers in that simplistic mould of good-bad or hero-villain.</p>
+
+<p>But in reality everything lives on a spectrum. No one is absolutely bad (except Hitler), but rather is very much based on the context.</p>
+
+<p>Similarly every success can’t be attributed to a single person or a event. In fact it is an amalgamation of long series of seemingly unconnected events. You can’t just attribute Apple’s success to Steve Jobs or Tesla’s to Elon Musk. Sure they were instrumental, but so were countless engineers and the conditions which made the rise possible.</p>]]></content><author><name></name></author><category term="Writing" /><summary type="html"><![CDATA[Life is anything but a disney movie. Unlike a disney movie it is difficult to categorize any one as a hero or a villain.]]></summary></entry><entry><title type="html">Natural selection</title><link href="https://www.pushkarghanekar.com//blog/2019/natural_selection/" rel="alternate" type="text/html" title="Natural selection" /><published>2019-08-26T00:00:00+00:00</published><updated>2019-08-26T00:00:00+00:00</updated><id>https://www.pushkarghanekar.com//blog/2019/natural_selection</id><content type="html" xml:base="https://www.pushkarghanekar.com//blog/2019/natural_selection/"><![CDATA[<p>From ‘The origin of species’ by Charles Darwin:</p>
+
+<p>Genes are not needed for Natural Selection, instead following are the three requirements of natural selection:</p>
+<ul>
+  <li>Variation</li>
+  <li>Heritability</li>
+  <li>Selection</li>
+</ul>
+
+<p>This also is applicable to scientific research:</p>
+
+<ul>
+  <li>
+    <p><strong>Variation:</strong> in different methodology that has been used to arrive at a particular result</p>
+  </li>
+  <li>
+    <p><strong>Heritability:</strong> in the research group/advisor-student relations and the methods used to arrive to the result (Grad students + post doc)</p>
+  </li>
+  <li>
+    <p><strong>Selection</strong> in who gets the job and is inundated to promote the ideas/methods used. If particular class of grad are hired we will end up promoting that particular line of thought.</p>
+  </li>
+</ul>
+
+<blockquote>
+  <p>But then what are the traits we are selecting for?</p>
+</blockquote>
+
+<p><strong>Truth.</strong> But what is the <em>truth?</em></p>
+
+<p>But we end up selecting those who’re productive and publishing in high-impact journal.</p>
+
+<ul>
+  <li>H-index, journal name, no of paper are proxies for this</li>
+  <li>Proxy can be sadly gamed because they are not the actual fact but the variable defined to be good enough to represent that fact</li>
+</ul>
+
+<p>When measure becomes a target, it ceases to be a good measure - Goodhart’s Law in Economics</p>
+
+<p>Part of the problem is that no-one is particularly incentivized to be right. Instead, scientists are incentivized to be productive and innovative. — Richard Horton (the Lancet, 2015)</p>
+
+<p>This ties in well with Safi Baccal’s idea of incentives being the <em>real</em> motivator for change and discovery. The organization is driven not only by the culture and structure, but also the underlying incentives. What incentives each person has for them ends becoming an important of how the organization would function in the long run.</p>]]></content><author><name></name></author><category term="Writing" /><summary type="html"><![CDATA[From ‘The origin of species’ by Charles Darwin:]]></summary></entry><entry><title type="html">Scientific thinking</title><link href="https://www.pushkarghanekar.com//blog/2019/scientific_thinking/" rel="alternate" type="text/html" title="Scientific thinking" /><published>2019-05-23T00:00:00+00:00</published><updated>2019-05-23T00:00:00+00:00</updated><id>https://www.pushkarghanekar.com//blog/2019/scientific_thinking</id><content type="html" xml:base="https://www.pushkarghanekar.com//blog/2019/scientific_thinking/"><![CDATA[<p>The scientific method is a phrase Musk uses often when asked how he came up with an idea, solved a problem or chose to start a business. Here’s how he defines it for his purposes, in mostly his own words:</p>
+
+<ol>
+  <li>
+    <p>Ask a question.</p>
+  </li>
+  <li>
+    <p>Gather as much evidence as possible about it.</p>
+  </li>
+  <li>
+    <p>Develop axioms based on the evidence, and try to assign a probability of truth to each one.</p>
+  </li>
+  <li>
+    <p>Draw a conclusion based on cogency in order to determine: Are these axioms correct, are they relevant, do they necessarily lead to this conclusion, and with what probability?</p>
+  </li>
+  <li>
+    <p>Attempt to disprove the conclusion. Seek refutation from others to further help break your conclusion.</p>
+  </li>
+  <li>
+    <p>If nobody can invalidate your conclusion, then you’re probably right, but you’re not certainly right.</p>
+  </li>
+</ol>
+
+<p>“That’s the scientific method,” Musk concludes. “It’s really helpful for figuring out the tricky things.”</p>
+
+<p>But most people don’t use it, he says. They engage in wishful thinking. They ignore counterarguments. They form conclusions based on what others are doing and aren’t doing. The reasoning that results is “It’s true because I said it’s true,” but not because it’s objectively true.</p>]]></content><author><name></name></author><category term="Writing" /><summary type="html"><![CDATA[The scientific method is a phrase Musk uses often when asked how he came up with an idea, solved a problem or chose to start a business. Here’s how he defines it for his purposes, in mostly his own words:]]></summary></entry><entry><title type="html">Missing India &amp;amp; manoeveuring the Americas</title><link href="https://www.pushkarghanekar.com//blog/2017/in_americas/" rel="alternate" type="text/html" title="Missing India &amp;amp; manoeveuring the Americas" /><published>2017-01-31T00:00:00+00:00</published><updated>2017-01-31T00:00:00+00:00</updated><id>https://www.pushkarghanekar.com//blog/2017/in_americas</id><content type="html" xml:base="https://www.pushkarghanekar.com//blog/2017/in_americas/"><![CDATA[<p>The first few days in the America were tough. Having lived with my parents all my life and now being suddenly uprooted from the comforts of my family home and my mom’s wonderful home-cooked meals was an irredeemable emotional desolation. Being independent was fun but with it came baggage of keeping the house clean, paying the bills and maintaining finances. Living with parents, my dad was the central bank and mom the ATM. Now, I had to think twice before making (any) purchase. At first, I had the habit of converting most of my purchases to Indian currency and curse profusely. $4 worth of curry leaves?! In India we get it for free! I had to resort to the “Do I want or do I need it” argument to coax my inner shoppoholic.</p>
+
+<p>The most under-appreciated pain of living alone was doing laundry and the dishes. It was during this time I missed my mother the most. I know how selfish of me. While I was tackling the problems of being alone and independent I also had to deal with the demanding coursework of the graduate schoool. It surely threw me off balance in the start. I had to reevaulate my methods. Being an academically oriented student since my school days the Indian education system had moulded me into an grade hungry learner whose prime motivation was to ace the test rather than to learn about the subject. Here it was different. Everyone in my batch was an above average, hard working, professional which made the experience a bit more daunting. We were tested on how my we understood the subject rather than how much we can regurgitate can a trained ape. I loved it. Though the learning curve was steep the experience was worthwhile. I had few episodes of feeling like an imposter but with time those healed.</p>
+
+<p>Coming to America as a country, on the outside America is fantastic! From an Indian tourist perspective it’s a dream land but on a closer look I have realized America is super weird. For one, it lacks the vibrance and color India has, I tend to agree it is not as <em>rustic</em> or dusty as India. I never would have thought I would say this, but I miss India. In all it’s dirty, ruggedness and chaos. There’s some order in the randomness there. While Americans are disciplined, clean and punctual; frankly, I miss the emotional connect which the Indians emanated profoundly. It might be the language or the culture or the climate – geographical social or political – but in India I felt I was a part of huge family. Something which is lacking here. Next, America has TOO MANY rules. Driving here is boring. While it’s true that there are wide clean roads, lush greenery, open country fields and impeccably planned intertwined highway network that make your jaws drop. For me that awe was ephemeral. Soon they monotonous highways where insanely oversized vehicles go at insanely high speeds. I dearly miss the colorful trucks, those dangerously packed busses, or motorcycles with 5 people on them; those rustic outposts that serve fresh sugarcane juice and doubled as trusty navigators. Every road trip whether rural or urban in India was an adventure.</p>]]></content><author><name></name></author><category term="Writing" /><summary type="html"><![CDATA[The first few days in the America were tough. Having lived with my parents all my life and now being suddenly uprooted from the comforts of my family home and my mom’s wonderful home-cooked meals was an irredeemable emotional desolation. Being independent was fun but with it came baggage of keeping the house clean, paying the bills and maintaining finances. Living with parents, my dad was the central bank and mom the ATM. Now, I had to think twice before making (any) purchase. At first, I had the habit of converting most of my purchases to Indian currency and curse profusely. $4 worth of curry leaves?! In India we get it for free! I had to resort to the “Do I want or do I need it” argument to coax my inner shoppoholic.]]></summary></entry></feed>
