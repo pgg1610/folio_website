@@ -9,7 +9,7 @@ last_name: Ghanekar
 email:  
 description: Personal Website # the ">" symbol means to ignore newlines until "footer_text:"
 
-footer_text: Blah.
+footer_text:
 
 icon: 🚀 # the emoji used as the favicon
 url: https://www.pushkarghanekar.com/ # the base hostname & protocol for your site
