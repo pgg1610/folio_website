@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: List of projects I am or have worked on. These projects have become a reality thanks to the wonderful collaborators I've had the good fortune to work with, who brought joy to the science being done and helped me grow as a communicator and a scientist. <a href='https://pgg1610.github.io/blog_fastpages/'><b><u>For more (side) projects visit my data science blog</u></b></a>
+description: List of projects I am or have worked on. These projects have become a reality thanks to the wonderful collaborators I've had the good fortune to work with, who brought joy to the science being done and helped me grow as a communicator and a scientist. <a href='https://pgg1610.github.io/data_blog/'><b><u>For more (side) projects visit my data science blog</u></b></a>
 
 nav: true
 display_categories: [phd]

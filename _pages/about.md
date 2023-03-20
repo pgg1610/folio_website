@@ -27,7 +27,7 @@ Besides research, I love to teach and share science with as many people as possi
 
 Outside of work, I enjoy [cooking](https://www.instagram.com/pgg1610/), gaming, diving deep in arcane internet rabbit holes, reading history and philosophy, and going on longer-than-necessary bike rides.
 
-On the side, I maintain a [data science blog](https://pgg1610.github.io/blog_fastpages/) where I document my thoughts, tips, and list of helpful resources related to chemical science, algorithms, and code. 
+On the side, I maintain a [data science blog](https://pgg1610.github.io/data_blog/) where I document my thoughts, tips, and list of helpful resources related to chemical science, algorithms, and code. 
 
 > <a href="https://www.youtube.com/watch?v=hPyFa9CqR6Y"><i>Sic Parvis Magna</i></a>
 
