@@ -41,6 +41,7 @@ Below are some beliefs I subscribe to:
 - ["The days are long but the decades are short"](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
 - Don't be the best, try to be the only.
 
-{% details Click here to know more %}
-Additional details, where math $$ 2x - 1 $$ and `code` is rendered correctly.
-{% enddetails %}
+<details>
+  <summary>Click to expand!</summary>
+  boo!
+</details>
