@@ -38,23 +38,18 @@ ii. Everything should be made as simple as possible, but not simpler.
 <details>
   <summary> More mental models I subscribe to:</summary>
   
-  - Trust in compounding and persistence; you dont need to be right just less stupid.
+  <ul>
+    <li>Trust in compounding and persistence; you don't need to be right just less stupid.</li>
+    <li>Decide what you want, decide what you are willing to exchange for it.</li>
+    <li>Have strong convictions, loosely held.</li>
+    <li>Follow curiosity and passion, not trends.</li>
+    <li>Ideas are not owned, but come with debts to those who came before.</li>
+    <li>Life is surprisingly short, so solve problems that interest and excite you most. <a href="https://www.cs.virginia.edu/~robins/YouAndYourResearch.pdf">Richard Hamming's Lecture</a></li>
+    <li>Happiness is a choice that you make and a skill that you develop.</li>
+    <li><a href="https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short">"The days are long but the decades are short"</a></li>
+    <li>Don't be the best, try to be the only.</li>
+  </ul>
   
-  - Decide what you want, decide what you are willing to exchange for it.
-  
-  - Have strong convictions, loosely held. 
-  
-  - Follow curiosity and passion, not trends.
-  
-  - Ideas are not owned, but come with debts to those who came before. 
-  
-  - Life is surprisingly short, so solve problems that interest and excite you most. [Richard Hamming's Lecture](https://www.cs.virginia.edu/~robins/YouAndYourResearch.pdf)
-  
-  - Happiness is a choice that you make and a skill that you develop 
-  
-  - ["The days are long but the decades are short"](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
-  
-  - Don't be the best, try to be the only.
 </details>
 
 -----
