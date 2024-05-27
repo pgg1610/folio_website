@@ -30,8 +30,10 @@ I maintain a [data science blog](https://pgg1610.github.io/data_blog/) where I d
 Curiosity, humility, and empathy are my foundational beliefs.
 
 Two principles drive my work: 
-(i) insight must precede application
-(ii) everything should be made as simple as possible, but not simpler.
+
+i. Insight must precede application
+
+ii. Everything should be made as simple as possible, but not simpler.
 
 <details>
   <summary> More mental models I subscribe to:</summary>
