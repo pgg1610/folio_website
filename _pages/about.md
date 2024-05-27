@@ -17,18 +17,26 @@ social: true  # includes social icons at the bottom of the page
 
 Hello! 
 
-I'm Pushkar Ghanekar, engineer by training currently a research scientist in [Eli Lilly's](https://www.lilly.com/discovery/research-and-scientific-discovery) Global Discovery Chemistry & Cheminformatics team. My work involves developing AI-based methods in chemistry and synthesis-planning to augment human creativity and maximize serendipty. I am broadly interested in chemistry and biology with a passion to understand how medicine are dicovered, developed, and commercialized. 
+I'm Pushkar, engineer-turned-scientist currently a research scientist in [Eli Lilly's](https://www.lilly.com/discovery/research-and-scientific-discovery) Global Discovery Chemistry & Cheminformatics team. I work with medicine discovery teams trying to find innovative solution to patient needs around the world. In particular I develop AI-based methods to augment human creativity and maximize serendipty. I am broadly interested in chemistry and biology with a passion to understand how medicine are dicovered, developed, and commercialized. 
 
-I completed my Ph.D. in Chemical Engineering from [Purdue University](https://engineering.purdue.edu/ChE) in August 2021. While at Purdue, I worked on building molecule-level understanding of catalysts to further our understanding of chemical transformations and reaction dynamics. 
+I completed my Ph.D. in Chemical Engineering from [Purdue University](https://engineering.purdue.edu/ChE) in August 2021. While at Purdue, I worked on building molecule-level understanding of catalysts to further our understanding of chemical transformations to help us make better energy storage and conversion devices like batteries. 
 
 [You can read more about my Ph.D. journey here](https://www.pushkarghanekar.com/blog/2021/phd_learning/).
 
-Besides research, I love to teach and share science with as many people as possible. 
-
-Outside of work, I enjoy [cooking](https://www.instagram.com/pgg1610/), gaming, diving deep in arcane internet rabbit holes, reading history and philosophy, and going on longer-than-necessary bike rides. Anything that can jusitfy me not doing laundry or dishes. 
+Besides research, I love to teach and share science with as many people as possible. Outside of work, I enjoy [cooking](https://www.instagram.com/pgg1610/), gaming, diving deep in arcane internet rabbit holes, reading history and philosophy, and going on longer-than-necessary bike rides. Anything that keeps me away from doing laundry or dishes. 
 
 On the side, I maintain a [data science blog](https://pgg1610.github.io/data_blog/) where I document my thoughts, tips, and list of helpful resources related to chemical science, algorithms, and code. 
 
-> <a href="https://www.youtube.com/watch?v=hPyFa9CqR6Y"><i>Sic Parvis Magna</i></a>
+I always believe in two principles in my work: (i) insight must precede application, and (ii) everything should be made as simple as possible, but not simpler.
 
-"The days are long but the decades are short" 
+Below are some beliefs I subscribe to:
+- Trust in compounding and persistence; you dont need to be right just less stupid.
+- Decide what you want, decide what you are willing to exchange for it.
+- Have strong convictions, loosely held. 
+- Focus on creating novel ideas, not publishing papers
+- Follow curiosity and passion, not trends.
+- Ideas are not owned, but come with debts to those who came before. 
+- Life is surprisingly short, so solve problems that interest and excite you most. [Richard Hamming's Lecture](https://www.cs.virginia.edu/~robins/YouAndYourResearch.pdf)
+- Happiness is a choice that you make and a skill that you develop 
+- ["The days are long but the decades are short"](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
+- Don't be the best, try to be the only.
