@@ -35,13 +35,25 @@ Two principles drive my work:
 
 <details>
   <summary> More mental models I subscribe to:</summary>
+  
   - Trust in compounding and persistence; you dont need to be right just less stupid.
+  
   - Decide what you want, decide what you are willing to exchange for it.
+  
   - Have strong convictions, loosely held. 
+  
   - Follow curiosity and passion, not trends.
+  
   - Ideas are not owned, but come with debts to those who came before. 
+  
   - Life is surprisingly short, so solve problems that interest and excite you most. [Richard Hamming's Lecture](https://www.cs.virginia.edu/~robins/YouAndYourResearch.pdf)
+  
   - Happiness is a choice that you make and a skill that you develop 
+  
   - ["The days are long but the decades are short"](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
+  
   - Don't be the best, try to be the only.
 </details>
+
+-----
+
