@@ -8,9 +8,7 @@ tags:
 - Writing
 ---
 
-# Not-Bad Interns
-
-Kevin Kelly describes the current generation of AI—whether in NLP, LLMs, or Generative AI—as "not bad interns." These models, while impressive, show both remarkable intelligence and glaring deficiencies. Their simplicity and ease of interaction have revolutionized various domains, enhancing productivity and reshaping work methodologies. Here's how I use AI in my daily workflow and the broader implications of this technology.
+[Kevin Kelly](https://www.wired.com/story/picture-limitless-creativity-ai-image-generators/) describes the current generation of AI—whether in NLP, LLMs, or Generative AI—as "not bad interns." These models, while impressive, show both remarkable intelligence and glaring deficiencies. Their simplicity and ease of interaction have revolutionized various domains, enhancing productivity and reshaping work methodologies. Here's how I use AI in my daily workflow and the broader implications of this technology.
 
 ## Practical Uses of AI in My Daily Life
 
