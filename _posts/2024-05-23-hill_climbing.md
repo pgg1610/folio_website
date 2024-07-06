@@ -4,6 +4,8 @@ title: Hill Climbing
 date: 2024-05-23
 description:
 featured: True
+toc:
+  sidebar: left
 tags:
 - Writing
 ---
