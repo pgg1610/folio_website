@@ -2,22 +2,22 @@
 layout: about
 title: about
 permalink: /
-description: Data tinkerer. Tech enthusiast. Peregrinating epicure. 
+description: Peregrinating epicure. Drug Hunter. Techno optimist. 
 
 profile:
   align: right
-  image: headshot_29072022.png
+  image: headshot_April2024.png
   address: >
-    <p><a href="assets/pdf/Resume_Pushkar_Two_columns_Nov2021.pdf">Resume</a></p>
+    <p><a href="assets/pdf/June2024_Pushkar_CV.pdf">Resume</a></p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! 
+Hello! I'm Pushkar. 
 
-I'm Pushkar, an engineer-turned-scientist currently working as a research scientist in [Eli Lilly's](https://www.lilly.com/discovery/research-and-scientific-discovery) Global Discovery Chemistry & Cheminformatics team. I collaborate with medicine discovery teams to find innovative solutions to patient needs around the world. In particular, I develop AI-based methods to augment human creativity and maximize serendipity. I am broadly interested in chemistry and biology, with a passion for understanding how medicines are discovered, developed, and commercialized.
+I currently work as a Sr. Research Advisor in [Eli Lilly's](https://www.lilly.com/discovery/research-and-scientific-discovery) Global Discovery Chemistry & Cheminformatics team. I collaborate with medicine discovery teams to find innovative solutions to patient needs around the world. In particular, I develop AI-based methods to augment human creativity and maximize serendipity. I am broadly interested in chemistry and biology, with a passion for understanding how medicines are discovered, developed, and commercialized.
 
 I completed my Ph.D. in Chemical Engineering from [Purdue University](https://engineering.purdue.edu/ChE) in August 2021. While at Purdue, I worked on building a molecule-level understanding of catalysts to further our knowledge of chemical transformations. This research aimed to improve energy storage and conversion devices like batteries.
 
@@ -31,16 +31,16 @@ Curiosity, humility, and empathy are my foundational beliefs.
 
 Two principles drive my work: 
 
-i. Insight must precede application
+i. Intentionality must precede application
 
-ii. Everything should be made as simple as possible, but not simpler.
+ii. How do you anything is how you do everything.
 
 <details>
-  <summary> More mental models I subscribe to:</summary>
+  <summary>Some core mental models I subscribe to:</summary>
   
   <ul>
-    <li>Trust in compounding and persistence; you don't need to be right just less stupid.</li>
-    <li>Decide what you want, decide what you are willing to exchange for it.</li>
+    <li>Trust in compounding and persistence; you don't need to be always right, just less stupid.</li>
+    <li>Decide what you want, decide what you are willing to exchange for it and get to work.</li>
     <li>Have strong convictions, loosely held.</li>
     <li>Follow curiosity and passion, not trends.</li>
     <li>Ideas are not owned, but come with debts to those who came before.</li>
