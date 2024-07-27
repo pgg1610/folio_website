@@ -16,7 +16,7 @@ As Paul Ehrlich, a pioneer in this field, declared he needed 4 ‘Gs’ (in Germ
 
 ## The Power of Small Changes
 
-In drug discovery, even the smallest modification can yield profound impacts. Consider acetylsalicylic acid, commonly known as aspirin, derived from salicylic acid by adding two acetyl groups. Why acetyl? Well, because it was convenient to do at the time. This seemingly minor chemical tweak transformed it into one of the most famous and widely used drugs. Such examples underscore the delicate balance and precision required in medicinal chemistry.
+In drug discovery, even the smallest modification can yield profound impacts. Consider acetylsalicylic acid, commonly known as aspirin, derived from salicylic acid by adding two acetyl groups. Why acetyl? Well, because it was convenient to do at the time. This seemingly minor chemical tweak transformed it into one of the most famous and widely used drugs. Such examples underscore the delicate balance and precision required in medicinal chemistry. I find it extremely inspiring how delicate balance of potency, solublity, metabolic stability, adsorption, and safety results in intended effacious therapeutics converting a simple chemical into a medicine. 
 
 ## The Poetry of Molecules
 
