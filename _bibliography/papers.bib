@@ -82,16 +82,24 @@
 	file = {Full Text PDF:/Users/L017301/Zotero/storage/6RQZ2AGY/Ghanekar et al. - 2022 - Adsorbate chemical environment-based machine learn.pdf:application/pdf},
 }
 
-@misc{deshmukh_active_2023,
-	title = {Active {Learning} of {Ternary} {Alloy} {Structures} and {Energies}},
-	copyright = {https://creativecommons.org/licenses/by-nc-nd/4.0/},
-	url = {https://chemrxiv.org/engage/chemrxiv/article-details/647fe2af4f8b1884b7f2ac83},
-	doi = {10.26434/chemrxiv-2023-xtmn0},
-	abstract = {High-throughput screening of catalysts using first-principles methods, such as density functional theory (DFT), has traditionally been limited by the large, complex, and multidimensional nature of the associated materials spaces. However, machine learning models with uncertainty quantification have recently emerged as attractive tools to accelerate the navigation of these spaces in a data-efficient manner, typically through active learning-based workflows. In this work, we combine such an active learning scheme with a dropout graph convolutional network (dGCN) as a surrogate model to explore the complex materials space of high-entropy alloys (HEAs). Specifically, we train the dGCN on the formation energies of disordered binary alloy structures in the Pd-Pt-Sn ternary alloy system and utilize the model to make and improve predictions on ternary structures. To do so, we perform reduced optimization over ensembles of ternary structures constructed based on two coordinate systems: (a) a physics-informed ternary composition space, and (b) data-driven coordinates discovered by the manifold learning scheme known as Diffusion Maps. Inspired by statistical mechanics, we derive and apply a dropout-informed acquisition function to select ensembles from which to sample additional structures. During each iteration of our active learning scheme, a representative number of crystals that minimize the acquisition function is selected, their energies are computed with DFT, and our dGCN model is retrained. We demonstrate that both of our reduced optimization techniques can be used to improve predictions of the formation free energy, the target property that determines HEA stability, in the ternary alloy space with a significantly reduced number of costly DFT calculations compared to a high-fidelity model. However, the manner in which these two disparate schemes converge to the target property differs: the physics-based scheme appears akin to a depth-first strategy, whereas the data-driven scheme appears more akin to a breadth-first approach. Both active learning schemes can be extended further to incorporate greater number of elements, surface structures, and adsorbate motifs.},
-	language = {en},
-	urldate = {2024-05-19},
-	author = {Deshmukh, Gaurav and Wichrowski, Noah J. and Evangelou, Nikolaos and Ghanekar, Pushkar G. and Deshpande, Siddharth and Kevrekidis, Ioannis G. and Greeley, Jeffrey},
-	month = jun,
-	year = {2023},
-	file = {Deshmukh et al. - 2023 - Active Learning of Ternary Alloy Structures and En.pdf:/Users/L017301/Zotero/storage/HRG2ZQE9/Deshmukh et al. - 2023 - Active Learning of Ternary Alloy Structures and En.pdf:application/pdf},
+@article{deshmukh2024active,
+  title={Active learning of ternary alloy structures and energies},
+  author={Deshmukh, Gaurav and Wichrowski, Noah J and Evangelou, Nikolaos and Ghanekar, Pushkar G and Deshpande, Siddharth and Kevrekidis, Ioannis G and Greeley, Jeffrey},
+  journal={npj Computational Materials},
+  volume={10},
+  number={1},
+  pages={116},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{deshmukh2024combined,
+  title={A combined first-principles and data-driven computational framework to analyze the surface structure, composition, and stability of binary alloy catalysts},
+  author={Deshmukh, Gaurav and Ghanekar, Pushkar and Greeley, Jeffrey},
+  journal={The Journal of Physical Chemistry C},
+  volume={128},
+  number={40},
+  pages={16952--16964},
+  year={2024},
+  publisher={ACS Publications}
 }

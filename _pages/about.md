@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Peregrinating epicure. Drug Hunter. Techno optimist. 
+description: Peregrinating epicure. Techno optimist. 
 
 profile:
   align: right
@@ -17,15 +17,15 @@ social: true  # includes social icons at the bottom of the page
 
 Hello! I'm Pushkar. 
 
-I currently work as a Sr. Research Advisor in [Eli Lilly's](https://www.lilly.com/discovery/research-and-scientific-discovery) Global Discovery Chemistry & Cheminformatics team. I collaborate with medicine discovery teams to find innovative solutions to patient needs around the world. In particular, I develop AI-based methods to augment human creativity and maximize serendipity. I am broadly interested in chemistry and biology, with a passion for understanding how medicines are discovered, developed, and commercialized.
+I currently a AI and scientific project lead at [Eli Lilly's](https://www.lilly.com/discovery/research-and-scientific-discovery). I develop AI-based methods to augment human creativity and maximize serendipity. I am broadly interested in chemistry and biology, with a passion for understanding how medicines are discovered, developed, and commercialized.
 
-I completed my Ph.D. in Chemical Engineering from [Purdue University](https://engineering.purdue.edu/ChE) in August 2021. While at Purdue, I worked on building a molecule-level understanding of catalysts to further our knowledge of chemical transformations. This research aimed to improve energy storage and conversion devices like batteries.
+Previously, I did my Ph.D. at [Purdue University](https://engineering.purdue.edu/ChE). I worked on building a molecule-level understanding of catalysts to further our knowledge of chemical transformations particularly related to energy storage and conversion devices like batteries.
 
 [You can read more about my Ph.D. journey here](https://www.pushkarghanekar.com/blog/2021/phd_learning/).
 
-Besides research, I love to teach and share science with as many people as possible. Outside of work, I enjoy [cooking](https://www.instagram.com/pgg1610/), gaming, diving deep in arcane internet rabbit holes, reading history and philosophy, and going on longer-than-necessary bike rides. Anything that keeps me away from doing laundry or dishes. 
+Besides research, I am interested in almost everything. I love to teach and share science with as many people as possible. Outside of work, I enjoy [cooking](https://www.instagram.com/pgg1610/), gaming, diving deep in arcane internet rabbit holes, reading history and philosophy, and going on longer-than-necessary bike rides. Essentially anything that keeps me away from doing laundry or dishes. 
 
-I maintain a [data science blog](https://pgg1610.github.io/data_blog/) where I document my thoughts, tips, and list of helpful resources related to chemical science, algorithms, and code. 
+I maintain a [data science blog](https://pgg1610.github.io/data_blog/) where I document my thoughts, tips, and list of helpful resources related to life science, algorithms, and code. 
 
 Curiosity, humility, and empathy are my foundational beliefs.
 
