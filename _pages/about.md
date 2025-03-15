@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hello! I'm Pushkar. 
 
-I currently a AI and scientific project lead at [Eli Lilly's](https://www.lilly.com/discovery/research-and-scientific-discovery). I develop AI-based methods to augment human creativity and maximize serendipity. I am broadly interested in chemistry and biology, with a passion for understanding how medicines are discovered, developed, and commercialized.
+I am a research scientist at [Eli Lilly's](https://www.lilly.com/discovery/research-and-scientific-discovery). I develop AI-based methods to augment human creativity and maximize serendipity. I am broadly interested in chemistry and biology, with a passion for understanding how medicines are discovered, developed, and commercialized.
 
 Previously, I did my Ph.D. at [Purdue University](https://engineering.purdue.edu/ChE). I worked on building a molecule-level understanding of catalysts to further our knowledge of chemical transformations particularly related to energy storage and conversion devices like batteries.
 
