@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Pushkar
 middle_name: G.
 last_name: Ghanekar
-email:  
+email: pushkar.g@lilly.com  
 description: Personal Website # the ">" symbol means to ignore newlines until "footer_text:"
 
 footer_text:
@@ -68,6 +68,9 @@ contact_note: # nothing
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
+sass:
+  style: compressed
+
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
@@ -124,6 +127,19 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - .travis.yml
+  - folio_website.code-workspace
+  - Gemfile
+  - Gemfile.lock
+  - .github/
+  - bin/
+  - _pages/teaching.md.tar.bz2
+  - _projects/misc.tar.bz2
+  - _posts/misc.tar.bz2
+
 keep_files:
   - CNAME
   - .nojekyll
