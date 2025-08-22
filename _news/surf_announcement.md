@@ -15,6 +15,6 @@ The project was to develop and test a mutli-class machine learning classificatio
 
 The mentoring assigment culminated with undergraduate researchers presenting their work at the annual SURF symposium and writing a research publication explaining their work and contribution. Two out of the four reseachers were recognized at the symposium for their work and awarded the ['Outstanding First Time Resarcher' Award](https://www.facebook.com/CISTAR.ERC/posts/4466608786712134).
 
-<img src="{{ site.baseurl }}/assets/img/SURF.png" alt="drawing" width="1000"/>
+<img src="{{ site.baseurl }}/assets/img/optimized/SURF.jpg" alt="drawing" width="1000" loading="lazy"/>
 
 ***

@@ -2,7 +2,7 @@
 layout: page
 title: ACE-GCN
 description: Adsorbate Chemical Environment-based Graph Convolutional Network
-img: /assets/img/ace-gcn/ace_gcn.png
+img: /assets/img/optimized/ace-gcn_main.jpg
 importance: 1
 category: phd
 ---
@@ -17,7 +17,7 @@ Encoding catalyst surfaces for machine learning-based screening is a fairly rece
 
 One way of addressing this challenge is to use graph-networks for presenting the atoms and their bonding environment. This idea has been implemented in understanding social interactions, relationship between entities as seen in [Indian spice usage](https://pgg1610.github.io/blog_fastpages/python/exploratory-data-analysis/data-visualization/web-scrapping/2020/12/09/food_relations.html), and in modeling, predicting molecular properties of small molecules which intuitively are condusive to such graphical network representation.
 
-<img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/ace-gcn/graphs.png" width="1000" data-zoomable>
+<img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/optimized/ace-gcn_graphs.jpg" width="1000" data-zoomable loading="lazy">
 
 <div class="caption">
 Leveraging the expressing power of graph networks to describe relational datasets 
@@ -31,7 +31,7 @@ In this work we build upon the idea of graph network representation and use sub-
 
 Adsorbate Chemical Environment-based Graph Convolutional Neural Network (ACE-GCN, for short) is a framework to help systematically generate, encode, and predict energetics of the surface models to help navigate the phase space to find stable surface representations. 
 
-<img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/ace-gcn/workflow.png" width="1000" data-zoomable>
+<img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/optimized/ace-gcn_workflow.jpg" width="1000" data-zoomable loading="lazy">
 
 <div class="caption">
 <b>ACE-GCN algorithm to encode and train high coverage adsorbate configurations.</b> (1) Generate sub-graphs: each configuration is split into multiple subgraphs, as identified by the [SurfGraph](https://surfgraph.readthedocs.io/en/latest/) algorithm. A distinct ego-graph is generated for each adsorbate to encode local geometric and chemical properties around the adsorbate in a subgraph representation. (2) Subgraph Featurization: each atom and its corresponding bond attribute in the subgraph is expressed as a vector representation according to the chemical identity (elemental properties) and spatial bond distance, termed as node and edge features, respectively. (3) Subgraph Convolutions: every node vector in the subgraph is iteratively updated through multiple rounds of graph convolution operations, which account for the atom’s geometric and chemical neighborhood using node and edge vectors of the neighboring atoms. (4) Fingerprints: a hierarchical pooling operation condenses all subgraphs for every adsorbate into one fingerprint vector. (5) NN Layer: the fingerprint vector is passed to a feed-forward neural network (NN) which maps it to the target property of choice, such as the average adsorption energy.
@@ -50,7 +50,7 @@ We utilize this workflow to successfully sample the large number of atomic confi
 The first case presents complexities because of the presence of an alloy and the strong binding nature of NO, while the second case presents challenges arising from the presence of step defects and the ability of OH to form inter-molecular hydrogen bonds. Using these two test cases as representative examples for likely challenges when developing computational models, we demonstrate the generalizability of our workflow to identify the most relevant atomistic configurations by utilizing only 10% of the total possible configurations. 
 
 
-<img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/ace-gcn/feedback_loop.png" width="1000" data-zoomable>
+<img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/optimized/ace-gcn_feedback.jpg" width="1000" data-zoomable loading="lazy">
 
 <div class="caption">
 Proposed workflow to address increasing complexity in heterogeneous catalyst model development when decribing in-operado representation.  

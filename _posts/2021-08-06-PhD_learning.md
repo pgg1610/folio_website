@@ -139,7 +139,7 @@ Of course, it was a journey full of ups and downs. Looking back, I am grateful f
 
 Finally, I want to leave you with this inspiring infographic I came across in 2018. 
 
-<img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/research_progress.png" data-zoomable>
+<img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/optimized/research_progress.jpg" data-zoomable loading="lazy">
 
 <div class="caption">
     Infographic made by Keenan Crane (<a href="https://twitter.com/keenanisalive">@keenanisalive</a>) showing the emotional ups and downs of doing research.
