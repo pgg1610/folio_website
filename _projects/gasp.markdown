@@ -2,7 +2,7 @@
 layout: page
 title: GASP
 description: Genetic algorithm combined with lattice-matching algorithm to generate multi-component interfacial model for catalyst design. 
-img: /assets/img/GASP_fig.png
+img: /assets/img/optimized/GASP_fig.jpg
 importance: 3
 category: phd
 ---
@@ -13,7 +13,7 @@ The surface structure of heterogeneous catalysts is well-known to dynamically re
 
 To address this requirement, we worked on a grand-canonical evolutionary algorithm coupled with a geometric lattice-matching routine. We generate viable catalyst-surface morphologies through a series of geometric mutation and crossover operations, with the final fitness defined in terms of grand canonical surface-energy. Thus, we determine interfacial models with optimal composition and surface structure for specific external environments. 
 
-<img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/gasp_workflow.png" data-zoomable>
+<img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/optimized/gasp_workflow.jpg" data-zoomable loading="lazy">
 
 <div class="caption">
     Workflow implemented for sampling different multi-component catalytic interfaces using GASP surfaces.
