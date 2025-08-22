@@ -14,6 +14,12 @@
 </title>
 <meta name="description" content="{{ site.description }}">
 
+<!-- Resource Hints for Performance -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://cdnjs.cloudflare.com">
+<link rel="preconnect" href="https://stackpath.bootstrapcdn.com">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+
 <!-- Open Graph -->
 {% if site.serve_og_meta %}
 <meta property="og:site_name" content="{{ site.description }}" />
@@ -31,7 +37,7 @@
 <!-- Fonts & Icons -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/{{ site.fontawesome.version }}/css/all.min.css"  integrity="{{ site.fontawesome.integrity }}" crossorigin="anonymous">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/{{ site.academicons.version }}/css/academicons.min.css" integrity="{{ site.academicons.integrity }}" crossorigin="anonymous">
-<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons&display=swap">
 
 <!-- Code Syntax Highlighting -->
 
@@ -50,8 +56,7 @@ https://github.com/alshedivat/al-folio/pull/234
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | relative_url }}">
 
-<!-- JQuery -->
-{% include scripts/jquery.html %}
+<!-- JQuery moved to body for better performance -->
 
 <!-- Theming-->
 {% if site.enable_darkmode %}
