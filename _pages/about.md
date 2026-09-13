@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hello! I'm Pushkar. 
 
-I use data and AI to design better medicines at [Eli Lilly's](https://www.lilly.com/discovery/research-and-scientific-discovery). I work on tools that augment human creativity and maximize serendipity. I am broadly interested in chemistry and biology, with a passion for understanding how medicines are discovered, developed, and commercialized.
+I use science, data, and AI to design better medicines at [Eli Lilly's](https://www.lilly.com/discovery/research-and-scientific-discovery). I lead Frontier AI, a boutique group I've been building since 2025 to help build AI platform for accelerate molecule design. I am strong believer in data and AI to maximize creativity and serendipity. I am broadly interested in chemistry and biology, with a passion for understanding how medicines are discovered, developed, and commercialized.
 
 I did my Ph.D. at [Purdue University](https://engineering.purdue.edu/ChE) where I researched atomistic-level chemistry underpinning to further our knowledge of chemical transformations particularly related to energy storage and conversion devices like batteries.
 
